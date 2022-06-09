@@ -84,5 +84,5 @@ Also, please cite our work as
 ```
 
 ## Contact and Help
-If you run into any isseus, feel free to contact us (email in the paper) or create an issue on GitHub. We are happy to help you out!
+If you run into any issues, feel free to contact us (email in the paper) or create an issue on GitHub. We are happy to help you out!
 
