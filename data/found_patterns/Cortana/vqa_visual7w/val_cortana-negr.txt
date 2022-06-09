@@ -1,0 +1,21 @@
+what and UNK and the
+is and shirt
+the and UNK
+is and UNK and the
+the and sign
+sign
+shirt
+is and UNK and what and the
+are and UNK
+is and UNK
+what and UNK
+on and how
+on and how and many
+is and UNK and what
+on and many
+Num pattern: 15
+Mean pattern length: 2.2666666666666666
+Min pattern length: 1
+Max pattern length: 4
+Std pattern length: 0.7717224601860151
+Add. info 

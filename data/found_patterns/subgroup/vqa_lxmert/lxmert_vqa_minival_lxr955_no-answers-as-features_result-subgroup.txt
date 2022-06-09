@@ -1,0 +1,106 @@
+What
+What and ?
+is
+is and ?
+What and the and ?
+What and the
+is and the
+is and the and ?
+What and is
+What and is and ?
+What and on and ?
+What and on
+What and the and on
+What and the and on and ?
+on
+on and ?
+What and is and the and ?
+What and is and the
+the and on
+the and on and ?
+the and ?
+the
+How
+How and ?
+is and on
+is and on and ?
+is and the and on and ?
+is and the and on
+What and is and the and on
+What and is and the and on and ?
+What and is and on
+What and is and on and ?
+are
+are and ?
+What and of
+What and of and ?
+of
+of and ?
+many
+many and ?
+How and many
+How and many and ?
+does
+does and ?
+What and of and the
+What and of and the and ?
+of and the and ?
+of and the
+are and the and ?
+are and the
+does and the
+does and the and ?
+of and is
+of and is and ?
+What and does and ?
+What and does
+How and the
+How and the and ?
+are and How and ?
+are and How
+What and does and the
+What and does and the and ?
+are and many and ?
+are and many
+are and How and many
+are and How and many and ?
+of and is and the
+of and is and the and ?
+What and of and is and ?
+What and of and is
+What and of and is and the
+What and of and is and the and ?
+Where
+Where and ?
+What and in
+What and in and ?
+How and the and many
+How and the and many and ?
+the and many and ?
+the and many
+number and ?
+number
+sign and ?
+sign
+Where and the
+Where and the and ?
+What and number
+What and number and ?
+sign and the
+sign and the and ?
+What and sign
+What and sign and ?
+What and say and ?
+What and say
+say and ?
+say
+are and on and ?
+are and on
+number and the and ?
+number and the
+Num pattern: 100
+Mean pattern length: 2.52
+Min pattern length: 1
+Max pattern length: 5
+Std pattern length: 0.9325234581499814
+Add. info result_set_size=100, depth=5, search_algorithm=SimpleDFS, duration=1002.1114184856415

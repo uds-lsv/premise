@@ -1,0 +1,106 @@
+what and the
+the
+how
+are
+what
+color
+color and what
+UNK
+on
+is and what and the
+many
+how and many
+color and the
+color and what and the
+on and the
+are and the
+are and how
+UNK and the
+is and color
+is and color and what
+is and color and the
+is and color and what and the
+are and many
+are and how and many
+on and what and the
+on and what
+is and the
+how and the
+of
+is and what
+of and the
+UNK and what
+is and UNK
+where and is and the
+UNK and what and the
+on and is
+on and is and what
+does
+on and is and the
+where and the
+on and is and what and the
+does and the
+is and UNK and the
+there
+are and how and the
+of and what and the
+of and what
+many and the
+is and of and the
+how and many and the
+are and UNK
+on and are
+shirt
+sign
+on and are and the
+what and does
+where and is
+on and of
+is and of and what and the
+on and of and the
+are and UNK and the
+sign and the
+is and UNK and what
+on and how
+wearing
+are and there
+is and shirt
+to
+where and are and the
+what and does and the
+shirt and the
+is and of
+are and how and many and the
+is and UNK and what and the
+are and many and the
+on and how and many
+is and shirt and the
+many and there
+shirt and what
+where and are
+on and many
+how and there
+shirt and what and the
+on and of and what and the
+on and of and what
+what and sign
+of and are
+are and many and there
+how and many and there
+the and to
+left
+is and shirt and what
+is and shirt and what and the
+are and how and there
+are and how and many and there
+where and UNK
+left and the
+on and color and what
+on and color
+what and sign and the
+Num pattern: 100
+Mean pattern length: 2.32
+Min pattern length: 1
+Max pattern length: 4
+Std pattern length: 0.8352245207128441
+Add. info result_set_size=100, depth=5, search_algorithm=SimpleDFS, duration=805.4459888935089

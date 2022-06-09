@@ -1,0 +1,7 @@
+
+Num pattern: 1
+Mean pattern length: 0.0
+Min pattern length: 0
+Max pattern length: 0
+Std pattern length: 0.0
+Add. info duration=416.4248299598694

@@ -1,0 +1,9 @@
+What and on and number
+What and the and does
+is and the and name
+Num pattern: 3
+Mean pattern length: 3.0
+Min pattern length: 3
+Max pattern length: 3
+Std pattern length: 0.0
+Add. info duration=1606.8863971233368

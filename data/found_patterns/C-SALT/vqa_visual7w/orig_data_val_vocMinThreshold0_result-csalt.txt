@@ -1,0 +1,16 @@
+is and what and the and color
+is and what and the and on
+is and what and the
+what and the and are
+are and how and many
+is and what and the and of
+is and what and the and in
+where and photo and taken and was and this and picture
+where and is and the and who
+is and what and of and this
+Num pattern: 10
+Mean pattern length: 3.9
+Min pattern length: 3
+Max pattern length: 6
+Std pattern length: 0.8306623862918074
+Add. info duration=2678.723380088806

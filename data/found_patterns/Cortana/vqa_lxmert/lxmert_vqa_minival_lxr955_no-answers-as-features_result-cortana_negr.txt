@@ -1,0 +1,8 @@
+What and the and does
+What and the and sign
+Num pattern: 2
+Mean pattern length: 3.0
+Min pattern length: 3
+Max pattern length: 3
+Std pattern length: 0.0
+Add. info 

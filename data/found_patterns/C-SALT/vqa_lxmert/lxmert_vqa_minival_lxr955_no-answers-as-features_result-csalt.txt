@@ -1,0 +1,17 @@
+What and is and ? and of and this
+? and Is and this and a
+What and is and the and ?
+? and in and this
+the and ? and in and Are and there
+What and the and ? and are
+What and color and is and the and ?
+What and is and the and on and ?
+the and ? and Is
+? and are and How and many
+is and the and ? and Where
+Num pattern: 11
+Mean pattern length: 4.181818181818182
+Min pattern length: 3
+Max pattern length: 5
+Std pattern length: 0.7158188976374373
+Add. info duration=5160.66463470459

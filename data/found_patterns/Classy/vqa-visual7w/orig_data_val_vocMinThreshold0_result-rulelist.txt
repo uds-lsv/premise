@@ -1,0 +1,25 @@
+when and was
+sport
+animal
+grass
+taken
+illuminated
+photo and is
+present
+when and is
+UNK and the
+left
+picture and who
+sign
+shirt
+how
+trees
+game
+top
+color
+Num pattern: 19
+Mean pattern length: 1.263157894736842
+Min pattern length: 1
+Max pattern length: 2
+Std pattern length: 0.44034738238635557
+Add. info min_support=1, rule_max_len=5, duration=19.01572275161743

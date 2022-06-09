@@ -1,0 +1,4139 @@
+.: 1493
+the: 1124
+-: 204
+The: 180
+,: 166
+/.: 150
+'s: 147
+American: 85
+Chinese: 70
+Japanese: 67
+and: 59
+'': 56
+said: 53
+Israel: 47
+Taiwanese: 40
+of: 36
+to: 35
+?: 34
+Korean: 33
+-RRB-: 32
+": 30
+, AND ,: 30
+%: 29
+Israeli: 27
+a: 27
+China: 26
+Street AND Wall: 26
+Palestinian: 26
+. AND to: 26
+Dow: 25
+was: 22
+Americans: 22
+Wall AND Street: 21
+in: 21
+for: 20
+U.S.: 19
+is: 19
+Iraq: 19
+Palestinians: 19
+United: 19
+Jerusalem: 18
+World: 17
+has: 17
+Arab: 16
+Justin: 16
+Republican: 16
+:: 15
+the AND ,: 15
+Jesus: 15
+--: 14
+': 14
+Soviet: 14
+. AND of: 14
+A: 14
+told: 13
+German: 13
+Buick: 13
+David: 13
+[: 12
+, AND of: 12
+Russian: 12
+French: 12
+Co.: 12
+Party: 11
+USS AND Cole: 11
+index: 11
+Newsweek: 11
+/: 11
+officials: 10
+at: 10
+Taiwan: 10
+Soviets: 10
+Shane: 10
+that: 10
+British: 10
+Democratic: 10
+on: 9
+General: 9
+York: 9
+Justice: 9
+Campbell: 9
+Bank: 9
+-LRB-: 9
+. AND the: 9
+Islamic: 9
+as: 9
+had: 8
+Kong AND Hong: 8
+State: 8
+Paul: 8
+mm: 8
+Kent: 8
+by: 8
+Iraqi: 8
+West: 8
+``: 8
+US AND billion: 8
+of AND ,: 8
+Canadian: 8
+Faqeer: 8
+Eastern: 8
+Senate: 8
+Council: 8
+Hungarian: 8
+Kong AND of: 8
+Time: 8
+African: 7
+News: 7
+Carnival: 7
+went: 7
+Lebanese: 7
+Agency: 7
+Iran: 7
+House: 7
+Chicken: 7
+Moslem: 7
+province: 7
+US AND ,: 7
+Voice: 7
+, AND the: 7
+Development: 7
+Democrats: 7
+says: 7
+Cole AND USS: 7
+, AND and: 7
+the AND News: 7
+Random: 7
+Wedtech: 7
+. AND and: 7
+Parliament: 7
+of AND and: 7
+President: 7
+]: 7
+Jewish: 7
+Safety: 7
+Boeing: 7
+Prime: 7
+Times AND the: 7
+Israelis: 6
+'s AND God: 6
+School: 6
+PaineWebber: 6
+with: 6
+Australian: 6
+Securities: 6
+Communists: 6
+state: 6
+and AND of: 6
+UN: 6
+North: 6
+also: 6
+Bonds: 6
+Georgia: 6
+Jonathan: 6
+who: 6
+Cluett: 6
+News AND the: 6
+Times: 6
+Farmers: 6
+Freddie: 6
+would: 6
+Western: 6
+. AND in: 6
+Fidelity: 6
+Minister: 6
+of AND the: 6
+Little: 6
+of AND .: 6
+Department: 6
+'s AND of: 6
+the AND .: 6
+Der: 6
+and AND the: 6
+River AND the: 6
+Garbage: 6
+: 5
+the AND of: 5
+US: 5
+bin: 5
+Spirit AND of AND Touches AND Perestroika AND Design: 5
+English: 5
+Egyptian: 5
+troops: 5
+Yugoslav: 5
+, AND in: 5
+left: 5
+Hertzolia: 5
+Saint: 5
+Giants: 5
+Center AND the: 5
+. AND son: 5
+Authority: 5
+investors: 5
+the AND Southern: 5
+Government: 5
+Cypriot: 5
+Manpower: 5
+Texas: 5
+God: 5
+will: 5
+And: 5
+Japan: 5
+from: 5
+!: 5
+CNN: 5
+the AND in: 5
+EquuSearch: 5
+called: 5
+his: 5
+Day: 5
+- AND ,: 5
+not: 5
+new: 5
+GM: 5
+League: 5
+Sullivan: 5
+. AND God: 5
+Advertising: 5
+But: 5
+'s AND Street: 5
+European: 5
+Younkers: 5
+the AND Southern AND Anhui: 5
+God AND to: 5
+and AND ,: 5
+government: 5
+Division: 5
+at AND .: 5
+$: 4
+Instruments: 4
+'s AND in: 4
+Bell: 4
+Peter: 4
+Park AND .: 4
+family: 4
+Wall AND ,: 4
+God AND the: 4
+Nicaraguan: 4
+Assembly: 4
+I: 4
+, AND said: 4
+Venezuelan: 4
+after: 4
+Italian: 4
+Natural AND Land: 4
+sent: 4
+the AND God: 4
+, AND David: 4
+Street: 4
+Kong AND in: 4
+and AND .: 4
+Columbia: 4
+T.: 4
+Federal: 4
+was AND ,: 4
+St.: 4
+were: 4
+. AND on: 4
+Republicans: 4
+Little AND ,: 4
+East: 4
+Jesus AND to: 4
+Yemeni: 4
+about: 4
+Eva: 4
+and AND and: 4
+McGraw: 4
+it: 4
+Mary: 4
+God AND from: 4
+of AND of AND All AND Racial AND Forms: 4
+western: 4
+Chen: 4
+or: 4
+Europe: 4
+Labor: 4
+In: 4
+the AND River: 4
+Turkish: 4
+Corp.: 4
+at AND ,: 4
+Firestone: 4
+their: 4
+: AND and AND Car: 4
+Union: 4
+News AND on AND Night: 4
+&: 4
+Kong: 4
+Bridge AND the: 4
+Mountain AND the: 4
+. AND from: 4
+Muslims: 4
+number: 4
+& AND 's: 4
+did: 4
+Finnish: 3
+the AND and: 3
+first: 3
+Ohio: 3
+Syria: 3
+Men: 3
+City AND ,: 3
+Libyan: 3
+Association: 3
+de AND 's AND Comtes: 3
+Syrian: 3
+by AND .: 3
+minister: 3
+Photograph: 3
+Aermacchi: 3
+Matsushita: 3
+Germans: 3
+Serbian: 3
+Notes: 3
+Laurent: 3
+uh: 3
+Martyrdom: 3
+plan: 3
+Congress: 3
+made: 3
+Egypt: 3
+Born: 3
+Iraqis: 3
+Center AND Trade: 3
+Contras: 3
+Han AND Han AND ZT: 3
+Exchange AND -: 3
+be: 3
+Travel: 3
+Rights AND and: 3
+um: 3
+System: 3
+Olympic: 3
+God AND for: 3
+Pentagon: 3
+Relations: 3
+'s AND to: 3
+all: 3
+program: 3
+Jews: 3
+White: 3
+with AND and: 3
+Forest AND the AND of: 3
+Lebanon: 3
+Cooperation AND Trade: 3
+. AND with: 3
+communist: 3
+Hezbollah: 3
+al: 3
+Lorillard: 3
+came: 3
+know: 3
+Sun AND that: 3
+Court: 3
+Express: 3
+Mom: 3
+City: 3
+addition: 3
+Washington: 3
+, AND Jesus: 3
+Reformist: 3
+has AND God: 3
+wanted: 3
+'s AND ,: 3
+Christians: 3
+Service AND own AND Youth: 3
+One: 3
+this: 3
+Mountain AND ,: 3
+Force AND Base: 3
+G.m.b: 3
+stock: 3
+'s AND Wall: 3
+Baghdad: 3
+Ltd: 3
+Arabism: 3
+Health: 3
+Bailey: 3
+Natural AND Born AND ,: 3
+Hospital AND ,: 3
+- AND Freeport: 3
+the AND Committee AND and: 3
+Hong: 3
+Brazilian: 3
+Alfred AND A.: 3
+them: 3
+God AND that: 3
+Playmates: 3
+produced: 3
+you: 3
+of AND 's: 3
+Jordan: 3
+Gambian: 3
+Trinity: 3
+. AND was: 3
+Region AND the: 3
+Moslems: 3
+Tribe: 3
+Business: 3
+, AND God: 3
+Park: 3
+Arabs: 3
+Sheep AND A AND Wild AND Chase AND '': 3
+Street AND on: 3
+office: 3
+Campeau: 3
+Romanian: 3
+Hill: 3
+Greek: 3
+Working: 3
+Rita: 3
+Smith AND ,: 3
+communists: 3
+, AND .: 3
+really: 3
+Week: 3
+House AND the: 3
+forces: 3
+wrote: 3
+the AND , AND Indianapolis AND Motor: 3
+Japan AND the: 3
+City AND Sadr: 3
+but: 3
+de AND .: 3
+Hanover: 3
+W: 3
+PEN AND to: 2
+Environment: 2
+S. AND to AND eastern: 2
+Marxist: 2
+soldiers: 2
+B. AND Goode AND Johnny: 2
+Little AND elementary: 2
+. AND ,: 2
+Man AND Son AND of: 2
+certainly: 2
+music: 2
+Yorkers: 2
+Middle AND East AND the: 2
+Orthodox: 2
+Wear AND : AND Urban AND for: 2
+La AND , AND Cote: 2
+Register: 2
+De AND said AND that: 2
+Hector: 2
+Resolution: 2
+Brothers AND will: 2
+Atayal: 2
+Basque: 2
+High AND say: 2
+as AND Sin AND as: 2
+other: 2
+wonderful: 2
+solution: 2
+Warner: 2
+Office AND the: 2
+Nazi: 2
+of AND not: 2
+Huntingdon: 2
+newspapers: 2
+De: 2
+to AND tell: 2
+United AND the: 2
+, AND Man: 2
+: AND Han AND ZT: 2
+'s AND David: 2
+, AND six AND Celia: 2
+Hao AND and: 2
+. AND am: 2
+member: 2
+Canada AND the: 2
+Grandparent: 2
+Saudi: 2
+Investment AND Province AND Foreign AND the: 2
+, AND John: 2
+Little AND now AND has: 2
+goes: 2
+, AND in AND Leshan: 2
+News AND the AND the: 2
+News AND is AND Night: 2
+Trade AND in AND on: 2
+John: 2
+Rand AND at AND exchange: 2
+: AND -- AND Way AND Way: 2
+God AND my: 2
+Newspapers: 2
+Hours: 2
+Interviews: 2
+Intel: 2
+'s AND off: 2
+Happy AND Taipei: 2
+Health AND Services: 2
+of AND Civil: 2
+Piero: 2
+EU: 2
+ABC: 2
+history: 2
+Bob: 2
+. AND USS: 2
+Diego AND another: 2
+caliph: 2
+Chairman AND Mao: 2
+, AND , AND Negev: 2
+MCOA: 2
+and AND Jonathan: 2
+and AND the AND Hojo AND Kamakura AND of AND Emperor AND ruling AND Godaigo: 2
+of AND to: 2
+Houston: 2
+we: 2
+, AND , AND Martha: 2
+, AND Dr.: 2
+Green AND the: 2
+. AND ": 2
+Man AND The: 2
+Baltimore: 2
+Banking: 2
+the AND Credit AND ,: 2
+GERMANS: 2
+America AND of: 2
+Dom AND or AND Perignon AND Roederer: 2
+York AND ,: 2
+Saddam: 2
+Toys: 2
+Life AND of: 2
+keep AND in AND Cristal: 2
+On AND Martin: 2
+, AND ": 2
+High: 2
+God AND is: 2
+- AND Barre: 2
+area AND the: 2
+FEDERAL: 2
+Matchbox: 2
+Mediterranean: 2
+Force AND The: 2
+Mayor: 2
+Headline: 2
+Secretary: 2
+treated: 2
+White AND the AND to: 2
+This: 2
+Delwin: 2
+Rock AND to AND at: 2
+Street AND Way: 2
+Iranian: 2
+Bills AND the: 2
+Taliban: 2
+de AND is AND Blanc: 2
+said AND to: 2
+things: 2
+Big: 2
+Royal AND Cruise: 2
+Agency AND ,: 2
+Kong AND watch: 2
+had AND that: 2
+University AND to: 2
+back: 2
+because: 2
+The AND on AND Andrew AND ,: 2
+Region AND invested AND the: 2
+Poles: 2
+, AND Americana: 2
+Genetics: 2
+Circuit AND set AND to: 2
+Lehman: 2
+expatriates: 2
+Grand: 2
+West AND America: 2
+Free: 2
+Investigation AND before AND Judge: 2
+Securities AND alcohol AND Arthur: 2
+, AND Sifa: 2
+Cadillac: 2
+a AND that AND gives: 2
+Chief: 2
+City AND of: 2
+Henry: 2
+Chicks AND in AND settlement: 2
+square: 2
+Travels AND Abroad AND Chen: 2
+H: 2
+Army AND ": 2
+. AND : 2
+got: 2
+October: 2
+said AND ,: 2
+Reagan: 2
+Sellers: 2
+the AND Alert: 2
+. AND Wall: 2
+peace: 2
+Sadr AND City: 2
+T. AND at: 2
+and AND went: 2
+Land AND and: 2
+Birkel: 2
+Lover: 2
+Stadium: 2
+with AND ,: 2
+Urban AND for AND Building AND and AND Evening: 2
+spokesman: 2
+healthy: 2
+Gap: 2
+Michael AND once: 2
+Park AND ,: 2
+'s AND Vega AND Spain AND Secilia: 2
+'s AND Lean AND .: 2
+the AND Committee AND reserve: 2
+Army AND the: 2
+Physics AND Hong AND the: 2
+Hospital: 2
+SWAPO: 2
+and AND Jiang AND Correspondents: 2
+Gaja AND Angelo AND is: 2
+Kocherstein: 2
+Automobile: 2
+, AND Mette: 2
+Red AND the: 2
+of AND Department AND Political AND .: 2
+that AND God: 2
+Um: 2
+Dr.: 2
+England: 2
+and AND about: 2
+Drexel: 2
+between: 2
+chairman: 2
+Street AND Al AND Zaharah: 2
+world: 2
+authorities: 2
+Simon AND a: 2
+story: 2
+Electric: 2
+the AND who: 2
+Cartoonist: 2
+Ginnie AND 's: 2
+Eagleton AND it AND political: 2
+Cubs: 2
+Park AND our: 2
+Laidlaw: 2
+, AND to: 2
+" AND Ward AND drummed AND on: 2
+...: 2
+Bumkins AND firms AND like AND that: 2
+Chilean: 2
+Forest AND of: 2
+Online AND National: 2
+scandal: 2
+Capital AND by AND Markets: 2
+. AND Best AND Your: 2
+US AND Sprint: 2
+David AND for: 2
+Experts: 2
+Kong AND -: 2
+District: 2
+Senior: 2
+'s AND reading: 2
+Bunun: 2
+: AND High AND -: 2
+in AND province: 2
+Dade AND Sara AND disability: 2
+Corps AND Second: 2
+the AND , AND of AND Stars: 2
+was AND that: 2
+Park AND 's: 2
+Chris AND Matthews: 2
+Russians: 2
+The AND , AND Associated: 2
+National AND Grid AND to: 2
+the AND Anhui: 2
+de AND Mesnil AND Salon: 2
+is AND of: 2
+Town AND ,: 2
+coalition: 2
+The AND Anhui: 2
+Province AND of: 2
+Hussein AND Saddam AND formerly: 2
+guess: 2
+Alliance: 2
+Kong AND PLA: 2
+Police AND Central AND Kampala: 2
+PEN AND ,: 2
+, AND the AND Tribunal: 2
+an: 2
+Dutch: 2
+colony: 2
+northern: 2
+Crown: 2
+Wang: 2
+Finmeccanica: 2
+- AND .: 2
+Philip: 2
+Bank AND to: 2
+Zhu: 2
+Jaguar: 2
+such: 2
+inability: 2
+Jesus AND ,: 2
+, AND on AND Circus: 2
+Committee AND the: 2
+White AND the: 2
+Sun AND " AND that AND Gala AND Evening: 2
+Israelites: 2
+Service AND and: 2
+Hu: 2
+assembly: 2
+Base AND ,: 2
+Atlanta: 2
+line AND Sony AND My: 2
+lived: 2
+DeBat: 2
+Disease: 2
+the AND Central: 2
+the AND in AND National: 2
+Hospital AND in: 2
+Chen AND Chi: 2
+Saul: 2
+Ethiopian: 2
+Council AND the: 2
+, AND to AND the: 2
+Dogs: 2
+believe: 2
+B.A.T: 2
+Argentine: 2
+Daying: 2
+Airport: 2
+Futures AND were AND the: 2
+Province: 2
+'s AND the: 2
+US AND at AND a: 2
+USS AND Nassau AND ``: 2
+Ltd.: 2
+Spanish: 2
+J.L.: 2
+Park AND the: 2
+owner: 2
+de AND Marle: 2
+and AND Feng AND Correspondents AND Xiaofang: 2
+Partnership: 2
+stocks: 2
+U.S. AND the: 2
+W.R.: 2
+Gitano: 2
+My AND Sony AND '': 2
+& AND , AND Son: 2
+Greeks: 2
+Inc.: 2
+Exchange AND with: 2
+futures AND --: 2
+Genetics AND . AND -: 2
+Merc: 2
+OPEN: 2
+the AND the: 2
+mainland: 2
+the AND News AND has: 2
+, AND son AND Sheba AND of AND Abishai: 2
+Co. AND &: 2
+Commonwealth: 2
+the AND she: 2
+in AND .: 2
+, AND including AND Navon AND Bogsater AND Doron: 2
+When: 2
+, AND 's: 2
+how: 2
+863: 2
+Vargas: 2
+Project AND , AND the: 2
+'s AND before: 2
+Times AND also: 2
+have: 2
+youth: 2
+Service AND 2: 2
+CSF: 2
+say: 2
+Dodgers: 2
+anecdotal: 2
+Court AND Supreme: 2
+Education: 2
+'s AND Tan AND Tian: 2
+C. AND elegans: 2
+Sets: 2
+National AND by AND in: 2
+Gold AND name AND name: 2
+practical: 2
+nations: 2
+'s AND JC: 2
+while: 2
+was AND The: 2
+rules: 2
+. AND at: 2
+is AND God: 2
+Mr.: 2
+Ray: 2
+the AND &: 2
+Board: 2
+Pacific: 2
+Wedtech AND scandal: 2
+Wall: 2
+. AND island: 2
+Rochester: 2
+regime: 2
+Patriarch: 2
+VOA: 2
+by AND ,: 2
+Gallup: 2
+House AND and AND Majority: 2
+Samuel: 2
+Jesus AND and: 2
+word: 2
+US AND .: 2
+: AND , AND Pali AND Storied: 2
+Town AND Bayan: 2
+Schaefer: 2
+more: 2
+is AND that: 2
+Michael AND All AND parishioners: 2
+, AND Avenue: 2
+. AND follow: 2
+up: 2
+. AND our: 2
+Jonathan AND and: 2
+, AND Man AND Spin AND Bible: 2
+People AND of AND Markham AND June AND Advocacy: 2
+News AND the AND me: 2
+export: 2
+4 AND Solomon AND gave: 2
+Democratic AND Lloyd AND ,: 2
+out: 2
+Mountain AND the AND Railway: 2
+Smith AND , AND at: 2
+Instruments AND Texas: 2
+Oak AND Bridge: 2
+Huntington AND was AND Place: 2
+Physics: 2
+David AND : 2
+God AND and: 2
+chairman AND , AND -: 2
+Moon AND the AND yesterday AND celebration AND Jonathan AND New AND to: 2
+MMS: 2
+The AND White: 2
+was AND of: 2
+Society AND ,: 2
+of AND of AND Voice AND America AND Voice AND America: 2
+holding: 2
+Jersey: 2
+David AND .: 2
+investment: 2
+Bridge AND its: 2
+based: 2
+St. AND at: 2
+leaders: 2
++: 2
+Park AND for: 2
+vice: 2
+'s AND 's: 2
+at AND Abu: 2
+- AND Al: 2
+Rent: 2
+Surprisingly: 2
+in AND and: 2
+Darkhorse: 2
+Haitian: 2
+of AND Alxa AND Bayan AND Banner: 2
+appropriations: 2
+and AND 's AND Soap: 2
+and AND for: 2
+Board AND Big: 2
+with AND in AND Giant: 2
+week: 2
+Kremlin: 2
+Mt.: 2
+Examiner: 2
+Ethan: 2
+general: 2
+Bros AND to AND a: 2
+Plaza AND ,: 2
+Communist: 2
+Bridge AND red: 2
+York AND Exchange: 2
+La AND and: 2
+Co: 2
+of AND of: 2
+: AND , AND BBS: 2
+Means: 2
+mess: 2
+News AND to AND Night: 2
+. AND Rights: 2
+Center AND Park: 2
+woman: 2
+E.: 2
+Little AND is: 2
+Happy: 2
+parliament: 2
+, AND USS: 2
+Equitable: 2
+Social: 2
+of AND the AND Regarding AND Life: 2
+Genetics AND . AND or AND bone: 2
+She: 2
+Czechoslovakia: 2
+' AND N: 2
+Bear AND 's AND chief AND ,: 2
+trader: 2
+Under: 2
+S.p: 2
+Ghraib AND of: 2
+Investment AND and AND the: 2
+Arabi: 2
+Nature: 2
+Merrill: 2
+chih: 2
+500: 2
+Road AND was: 2
+T. AND of: 2
+'s AND Grange AND Australia: 2
+Regatta: 2
+Princess: 2
+cars: 2
+Rally: 2
+citizens: 2
+Kong AND Hong AND world: 2
+Place AND the: 2
+Smith AND with: 2
+of AND Trade AND Board: 2
+Lockheed: 2
+bonds: 2
+and AND Then: 2
+300,000 AND Orange: 2
+Street AND Old: 2
+Information AND United: 2
+& AND People AND of AND Advocacy: 2
+Society: 2
+Rice: 2
+Park AND Wetland: 2
+City AND 's: 2
+'s AND Yew: 2
+across: 2
+May: 2
+Peter AND Simon: 2
+Rowe AND T. AND of: 2
+and AND When: 2
+your: 2
+/. AND CNN AND Orleans: 2
+Ethiopians: 2
+the AND Styx: 2
+Valley AND the: 2
+Synergistics AND Moore: 2
+KMT: 2
+Cross AND the: 2
+Green AND The: 2
+, AND Salon AND Mesnil AND push: 2
+mart: 2
+the AND Department: 2
+Polish: 2
+Cleveland: 2
+at AND and: 2
+example: 2
+Capitol AND .: 2
+Florida: 2
+Arnold: 2
+Washington AND Times AND The AND Post: 2
+the AND Anhui AND Southern: 2
+authority: 2
+David AND me: 2
+acquisitions: 2
+, AND Southern AND Anhui AND the: 2
+organizations: 2
+said AND this: 2
+Second: 2
+Highland: 2
+Chiang AND Ching AND to AND kuo AND declined AND invitations AND return AND .: 2
+La AND Solaia: 2
+Bidermann: 2
+. AND , AND Run: 2
+Shiite: 2
+The AND Man: 2
+the AND Ninth AND Double: 2
+Paribas: 2
+Bank AND 's: 2
+project: 2
+Chen AND including AND were AND Jianjiang AND robbed: 2
+the AND Boys: 2
+the AND Line: 2
+and AND Santi AND Biondi AND ,: 2
+'s AND that: 2
+Cristal AND or AND , AND Roederer: 2
+William: 2
+Chicago: 2
+ad: 2
+Kong AND new: 2
+UNION: 2
+calculator: 2
+Exchange AND and: 2
+Genetics AND Institute: 2
+unacceptable: 2
+SAVINGS: 2
+and AND with: 2
+U.S. AND divers: 2
+political: 2
+, AND Tseng: 2
+Harvard: 2
+market: 2
+Maoists: 2
+Insurance AND have AND agents AND been: 2
+S. AND and AND between AND U.: 2
+Jefferies: 2
+diseases: 2
+Yorker: 2
+City AND :: 2
+Red: 2
+at AND or AND at: 2
+& AND ,: 2
+Security: 2
+a AND & AND : 2
+said AND King AND ,: 2
+report: 2
+Street AND ,: 2
+Jesus AND before: 1
+hundred: 1
+lawyer: 1
+John AND did AND ,: 1
+and AND Commerce AND ,: 1
+the AND a AND who: 1
+agreement AND absolute AND a AND sell AND to AND Hoylake AND to AND under AND out: 1
+in AND to AND release AND government AND agreement AND claims AND return AND the AND agreed AND for AND $ AND Recognition AND pay AND all AND the AND the AND company AND 20,000 AND Moore AND Mr. AND , AND , AND of AND In AND the AND against AND and AND . AND Reedy: 1
+captivated AND Wall AND month: 1
+Army AND the AND Marines AND .: 1
+Co. AND Nintendo AND made AND by: 1
+marked: 1
+U.S. AND he: 1
+consumer: 1
+operates AND Farmers: 1
+of AND the AND gave: 1
+. AND under: 1
+tonight: 1
+US AND is: 1
+of AND Alxa AND Resources AND Natural: 1
+manufacturer AND established AND Industrial AND , AND Matchbox AND toy AND by AND . AND headed AND Ting AND Co.: 1
+and AND Zeng AND -RRB-: 1
+Terry: 1
+Wan AND try: 1
+. AND Que: 1
+Christie: 1
+God AND insulting AND ,: 1
+a AND Rita AND Hurricane: 1
+of AND Man: 1
+. AND there: 1
+as AND of AND account AND CoreStates AND 5 AND , AND , AND its AND for AND agency AND record AND . AND million AND Financial AND Earle AND named AND Spiro AND $ AND , AND Brown AND Palmer AND , AND Philadelphia: 1
+U.S. AND of: 1
+Trade AND Investment AND and AND Ningxia AND the: 1
+Hearst AND the AND a AND had AND flirted: 1
+fills: 1
+in AND 's AND Rather AND Trinitron AND Evening AND week AND Broadcasting AND magazine AND .: 1
+Army AND and: 1
+Capital AND City: 1
+aired AND -- AND the AND own: 1
+Affairs AND University AND and AND Princeton AND Internatonal AND Public: 1
+like AND Hills AND , AND Grgich: 1
+Shearson AND - AND is AND 62: 1
+the AND of AND --: 1
+dollars: 1
+debts: 1
+Gonzalez AND over AND Elian: 1
+base: 1
+, AND Piper AND & AND , AND Co. AND Sachs AND Jaffray AND Goldman: 1
+biscuits: 1
+Gloria: 1
+New AND York AND Co.: 1
+mentioned AND in: 1
+Street AND the: 1
+D.C. AND and AND Washington AND : 1
+markets: 1
+exchange: 1
+Wall AND is: 1
+models: 1
+18 AND 1/2 AND added AND Lynch AND 1 AND to AND 3/4 AND ,: 1
+Committee AND Justice AND Ethics AND the AND Department AND the: 1
+has AND , AND Dingell AND Committee: 1
+pattern: 1
+Orange AND street: 1
+Minister AND , AND Prime: 1
+, AND fire: 1
+, AND Chen: 1
+has AND Fund: 1
+me: 1
+Department AND Political AND .: 1
+Random AND report AND a AND As AND . AND earnings: 1
+Trade AND Investment AND and AND Ningxia AND ,: 1
+the AND has: 1
+the AND did AND Man: 1
+, AND David AND asked AND me AND Jonathan AND to AND answered: 1
+of AND the AND David AND ? AND Christ AND the: 1
+the AND . AND Church AND of AND from: 1
+Agency AND Xinhua AND News: 1
+Brady AND - AND so: 1
+. AND Hannah: 1
+the AND Ava AND ,: 1
+. AND northeast AND to AND the AND In AND of AND plan AND was AND water AND Pali AND scrapped AND pave AND the AND to AND develop AND overnight AND tourism AND construction AND a AND edge AND way AND order AND the AND ,: 1
+his AND about AND comfort: 1
+disclosed AND , AND expected AND group AND were AND a AND and AND Terms AND get AND will AND to AND than AND had AND by AND expecting AND marketplace AND for AND 30 AND . AND 25 AND $ AND million AND `` AND '' AND spokesman AND little AND million AND the AND a AND but: 1
+U.S. AND at: 1
+brought AND from: 1
+Service AND National AND of: 1
+Sachs AND growth: 1
+chief: 1
+'s AND None: 1
+say AND Century AND a AND chosen AND of AND head AND . AND Anthony AND could AND company AND , AND be AND ,: 1
+Caribbean AND the AND of AND nations AND already AND had: 1
+visit AND President AND by AND Corazon: 1
+is AND : 1
+anyway: 1
+Algerians: 1
+threw: 1
+by AND and: 1
+. AND right: 1
+'s AND a AND Pilot: 1
+Performers: 1
+-- AND returned: 1
+'s AND . AND of: 1
+wonder: 1
+Taiwan AND Association: 1
+Texas AND West: 1
+of AND : 1
+Bank AND Chicago: 1
+Latin AND in: 1
+New AND York AND Corp. AND Alliance: 1
+Shearson AND would AND on AND that: 1
+Finns: 1
+Council AND and AND for AND Public AND Women AND Affairs: 1
+evacuated: 1
+God AND things: 1
+Joy AND : AND more: 1
+of AND that AND caused: 1
+'s AND Lane AND , AND dialogue: 1
+with AND official AND , AND Donaldson AND an AND Lufkin AND & AND Jenrette: 1
+, AND But AND Volaticotherium AND ,: 1
+US AND and: 1
+company AND TV AND president AND the: 1
+tension: 1
+Yugoslavian: 1
+Report: 1
+only AND others AND a AND , AND is AND measure AND . AND Without AND half AND '' AND - AND said AND Sisulu AND ,: 1
+, AND Kaye AND took AND others AND notice: 1
+by AND to: 1
+takeover: 1
+- AND Rodino AND Scott: 1
+Building AND and: 1
+inquire: 1
+conference: 1
+of AND Kings: 1
+tube AND in AND station AND /. AND Allgate AND smoke AND the AND for AND got: 1
+Roy AND Gordon: 1
+open: 1
+Capital AND City AND , AND and: 1
+PEN AND Chinese AND said: 1
+Christianity: 1
+eh: 1
+car AND Life AND of AND Knowledge AND : AND Car AND Han AND -LRB- AND talented AND involving AND beautiful AND accident AND girl AND Manifestation AND and: 1
+Jesus AND made AND feel: 1
+Foxsies AND oil: 1
+when: 1
+and AND to: 1
+Special AND of: 1
+bandwagon: 1
+the AND Chery: 1
+Chery AND the AND from: 1
+'s AND - AND Mellon AND Leningrad AND Carnegie: 1
+. AND --: 1
+Capital AND for AND City: 1
+transactions: 1
+Barcelona: 1
+God AND like: 1
+is AND Herr AND Doktor: 1
+almighty: 1
+than AND and: 1
+scientists: 1
+. AND but: 1
+us AND inform AND American: 1
+York AND from AND New: 1
+who AND is AND -: 1
+signaled: 1
+Capitol: 1
+in AND Tyre: 1
+Serb: 1
+compatriots: 1
+Co. AND Train: 1
+Institute: 1
+L. AND Paul: 1
+Monopolies: 1
+Adolph AND ,: 1
+parties: 1
+Bromwich: 1
+, AND Richard: 1
+, AND , AND Vitulli AND Previously AND 43: 1
+aka AND Roy AND Gordon: 1
+journalist: 1
+Executive: 1
+DLC: 1
+Capital AND Markets AND by: 1
+had AND after: 1
+Bell AND at: 1
+in AND The AND Care: 1
+All AND 's: 1
+under AND Arrow AND name: 1
+ship AND a AND Caribbean: 1
+did AND Jesus: 1
+God AND did: 1
+last AND After AND efforts AND down AND years AND will AND Los AND the AND Angeles AND , AND Examiner: 1
+Hammond: 1
+Iranian AND - AND terror AND the AND and AND of: 1
+over AND Elian AND Gonzalez: 1
+Federal AND :: 1
+Vargas AND reports: 1
+Singapore: 1
+- AND one: 1
+the AND and AND Cole AND of AND Navy AND defended: 1
+NATO: 1
+of AND approve AND . AND of AND blacks AND statistics AND 's AND performance: 1
+Chicken AND Kentucky AND at: 1
+: AND Wear AND Urban AND for: 1
+, AND said AND Thomas: 1
+to AND Tell AND .: 1
+- AND , AND out: 1
+spectrum AND political AND liberal AND ends AND . AND The AND two AND represent AND professors AND different AND a AND conservative AND the AND of AND Mr. AND and AND is AND is AND -- AND Kurland: 1
+Council AND for AND Public AND Affairs AND Jewish: 1
+to AND MSNBC AND . AND were AND reports: 1
+Mora AND of: 1
+then AND it AND with: 1
+54: 1
+a AND into AND his: 1
+Roy AND Parker AND will: 1
+There: 1
+Nelson AND Gov. AND of: 1
+, AND to AND Joab: 1
+third: 1
+Warner AND and: 1
+called AND Ben: 1
+of AND Dale AND , AND Bumpers AND palate: 1
+Thirdly: 1
+, AND and AND Sternberg: 1
+. AND house: 1
+of AND and AND Land AND - AND of: 1
+'s AND I: 1
+Midwestern: 1
+that AND MI AND theory AND posits: 1
+. AND of AND Industries AND Federation AND National: 1
+Huntingdon AND of AND or: 1
+the AND came AND Moon: 1
+Perkin AND Elmer: 1
+, AND allowed AND a AND said: 1
+Alfred: 1
+America AND .: 1
+workers: 1
+. AND visit: 1
+Democracy AND the AND Communist AND New AND parties: 1
+. AND Divine: 1
+said AND Lomas: 1
+Saul AND because AND him: 1
+'s AND of AND Florio AND photograph AND and AND rival: 1
+University AND by AND , AND employed AND but: 1
+'s AND Market AND Trade AND of AND Board AND Major AND Chicago: 1
+in AND Place: 1
+An: 1
+are: 1
+that AND are AND did: 1
+stock AND offering: 1
+White AND the AND House AND .: 1
+, AND Lane AND shot AND York: 1
+and AND 's AND group AND or AND doubted AND Sadr AND Hakim AND - AND Al AND movement: 1
+of AND - AND Ye AND destruct: 1
+A AND Police AND Central: 1
+, AND . AND said AND sugar AND felt AND New AND Shearson AND , AND York AND Ganes AND , AND Hutton AND for: 1
+is AND believe: 1
+the AND James: 1
+US AND trillion: 1
+Black: 1
+Natural AND Voters AND Resources AND the AND of AND Conservation AND League AND the: 1
+Guangdong: 1
+of AND the AND Man: 1
+Arafat AND advisor: 1
+'s AND at AND and: 1
+early: 1
+Love AND , AND as AND neighbor AND thy AND say: 1
+Hotel AND at AND Central AND the: 1
+towards: 1
+the AND had AND Left AND Coalition AND Progress: 1
+yun: 1
+Fannie AND 's: 1
+R. AND , AND Roukema AND N.J: 1
+served: 1
+week AND , AND rarely AND IRS AND incomplete AND on: 1
+called AND Ahab AND a AND So AND meeting: 1
+foreign: 1
+of AND the AND Law AND Great AND Peace: 1
+in AND Israel AND for: 1
+rise: 1
+commission: 1
+, AND as AND him: 1
+Sichuan AND quake AND the: 1
+Adolph AND were AND the AND and AND ,: 1
+Institution: 1
+trader AND , AND market: 1
+, AND Deepak AND Thanks AND A AND mental: 1
+" AND James AND C: 1
+USA: 1
+is AND played AND the AND with: 1
+Mary AND went: 1
+First AND , AND Lady: 1
+US AND dollars AND foreign: 1
+, AND Lay AND the: 1
+a AND to: 1
+in AND OSS AND ,: 1
+Service AND Youth AND own AND its AND YES AND Entering AND -RRB- AND his AND plan AND outlined AND though AND has: 1
+called AND - AND Louise: 1
+money AND T. AND for: 1
+'s AND OTC: 1
+Lake AND Vineyard AND Creek AND Diamond AND in: 1
+and AND was: 1
+Wan: 1
+and AND Life AND of AND Knowledge AND : AND Car AND Han: 1
+at AND . AND Yale: 1
+are AND that: 1
+John AND where: 1
+soil: 1
+B.A.T AND advances AND James AND a: 1
+Shing AND Matchbox AND Industrial AND and AND Kader AND Wah: 1
+Lake AND Creek AND Vineyard AND Cabernet: 1
+News AND in: 1
+from AND in AND engaged: 1
+women: 1
+said AND Chairman: 1
+Chen AND Shui AND " AND ,: 1
+Cole AND USS AND ,: 1
+saying AND television AND peace AND prefer AND hear AND war AND Palestinians AND the AND I AND I AND understand AND they AND of AND Palestine AND When: 1
+/. AND CNN AND London: 1
+Intel AND and: 1
+Punjab: 1
+and AND Tigris AND in AND the: 1
+news: 1
+of AND News: 1
+Mr. AND bad AND ,: 1
+today: 1
+, AND noted AND Oxnard AND , AND all: 1
+Uganda AND to: 1
+, AND deal AND through AND Candela: 1
+of AND steadily AND willed AND ,: 1
+, AND Chilver: 1
+Son AND , AND , AND Lord: 1
+house AND White AND at AND Saturday: 1
+White AND the AND on: 1
+told AND us: 1
+Smith: 1
+got AND Peter: 1
+Iowa: 1
+Thai: 1
+Abel AND Beth AND ,: 1
+'s AND people: 1
+sales: 1
+city: 1
+who AND of AND to AND Israel AND Ahab AND messengers: 1
+Country AND funds: 1
+, AND was: 1
+Village: 1
+. AND for: 1
+Ancient AND the AND Giants AND Forest: 1
+- AND and: 1
+Sephardic: 1
+Giant AND ever AND the AND proposed: 1
+Lincoln AND because: 1
+U.S. AND will AND good AND books AND the AND of AND how AND some AND . AND one AND swoop AND left AND on AND Blue: 1
+Television AND with: 1
+Tribunal: 1
+has AND , AND been AND disclosed AND Wright AND was AND available: 1
+Radio AND City: 1
+Angeles AND at: 1
+non: 1
+Tiger: 1
+Hughes: 1
+received AND King AND almost: 1
+bob: 1
+to AND began AND Aram: 1
+son AND of AND named AND . AND Bicri: 1
+Dassault: 1
+us AND let AND stand AND wish AND China AND Chery AND would AND Of AND , AND and: 1
+, AND the AND Lay: 1
+Mexican: 1
+today AND Tallahassee AND ,: 1
+unit: 1
+Ve: 1
+Lincoln AND the AND because: 1
+Abu AND :: 1
+ceremony: 1
+Report AND Cross AND 7 AND Red AND International: 1
+Wall AND of: 1
+was AND of AND Baladan: 1
+Gitano AND -: 1
+highways: 1
+the AND David AND ? AND Christ AND the AND of AND Son: 1
+Love AND , AND the: 1
+of AND Man AND Son: 1
+Jordan AND that: 1
+-- AND everyone AND and AND else: 1
+serving: 1
+Levas: 1
+of AND often AND willed AND willed AND steadily AND With AND pressing AND - AND -: 1
+: AND Han AND Han AND ZT: 1
+Afghanistan: 1
+: AND Szabad AND Europa: 1
+Disney AND on: 1
+Love AND , AND as AND neighbor: 1
+Liao: 1
+as AND Corp. AND Norwest AND such AND Corp.: 1
+Stanford: 1
+and AND who: 1
+Earth AND not: 1
+Hart AND under AND Rodino AND Scott AND - AND .: 1
+WCRS AND ,: 1
+Paul AND :: 1
+vacation: 1
+practice: 1
+by AND Yun AND Chow: 1
+Madison: 1
+to AND the AND Ninth AND Double: 1
+Ronnie AND from AND would AND word AND .maybe: 1
+of AND the AND Stars: 1
+Blue AND strength AND Selsun: 1
+40 AND % AND Calor: 1
+Service AND Community AND and AND National AND a: 1
+'s AND Taiwan AND All: 1
+Ms. AND Farrell AND offers AND ,: 1
+why AND sets AND sound: 1
+had AND 70: 1
+Cross AND Red: 1
+of AND with: 1
+of AND , AND Agriculture AND Council: 1
+made AND Solomon AND 200 AND large: 1
+, AND , AND Beverly AND First AND Securities AND Neither AND Hills: 1
+as AND Earle AND named AND , AND account AND of AND Palmer AND Spiro AND , AND Brown AND , AND ,: 1
+the AND and AND Ford: 1
+Mark AND is: 1
+Man AND the AND comes: 1
+to AND his AND read: 1
+Nedelya: 1
+Co. AND Chicago AND Train AND Trailer: 1
+donations: 1
+park: 1
+D. AND , AND Schumer AND .: 1
+Machinists: 1
+league: 1
+stood: 1
+newspaper AND the AND of AND Hearst AND empire: 1
+White AND the AND manipulated: 1
+Ada AND de AND his: 1
+, AND However AND Park AND Ocean AND of AND has AND Kong AND , AND Hong: 1
+Park AND built AND the: 1
+Cabernets AND Rock AND Red AND the AND or AND one AND of AND Creek: 1
+day: 1
+Then AND out AND with: 1
+Union AND -: 1
+20070107: 1
+country: 1
+had AND the: 1
+- AND issues AND other: 1
+Bell AND employees: 1
+the AND of AND Institute: 1
+also AND Is: 1
+took AND Evans: 1
+natured: 1
+Ye AND Ting AND called AND but: 1
+poked AND out: 1
+- AND with AND McCurdy AND Nunn: 1
+and AND from AND Beth: 1
+Qingqing: 1
+wines AND the AND The AND commanded AND now AND - AND world AND tags AND . AND of AND for AND of AND the AND six AND the AND of AND , AND three AND in AND most AND vineyard AND several AND price AND years AND Domaine AND acres AND digit AND precious AND have AND anywhere AND 72 AND - AND la AND de: 1
+So: 1
+Bureau AND Province AND Guangdong: 1
+TV AND company AND president AND , AND the: 1
+Life AND of AND : AND Knowledge AND Car AND Han AND Manifestation AND and: 1
+Southern AND the AND Anhui AND possesses: 1
+. AND Away: 1
+D. AND , AND Traficant AND -RRB-: 1
+son AND time AND Baladan AND of: 1
+Guard AND .: 1
+spokesman AND increase AND Laidlaw AND would: 1
+National AND Service AND Community AND ``: 1
+Peter AND through: 1
+came AND So: 1
+from AND and AND .: 1
+: AND He AND is: 1
+`` AND return AND Mr. AND In AND '' AND Nixon AND . AND , AND Yang AND said AND relationship: 1
+Security AND National AND the: 1
+- AND of: 1
+Zahn AND Paula: 1
+, AND River: 1
+of AND the AND Stars AND Avenue: 1
+brought: 1
+in AND City AND Hall: 1
+said AND Jesus: 1
+, AND Asia: 1
+, AND Saul: 1
+sanctions: 1
+Teeth AND of AND Story AND The: 1
+VOA AND headquarters: 1
+D.C. AND , AND Bridge AND in AND Washington AND Key AND as: 1
+wrote AND , AND that AND said: 1
+Jesus AND loved AND one: 1
+- AND wines AND vineyard AND of AND . AND of AND - AND The AND the AND now AND , AND world AND , AND most AND six AND digit AND tags AND several AND 72 AND for AND in AND anywhere AND acres AND the AND commanded AND three AND precious AND have AND price AND years AND la AND de AND Romanee: 1
+one: 1
+Queen AND the AND she: 1
+. AND 's: 1
+18 AND to AND to AND 28 AND to AND 3/8 AND 1/2 AND added AND 3/4 AND and AND Bear: 1
+was AND from: 1
+Hotel: 1
+Arafat AND leader AND Fateh AND . AND Yasser: 1
+of AND . AND Stratford: 1
+household: 1
+Biscayne AND , AND any: 1
+President AND today AND urged AND Bank: 1
+of AND Zahn AND that: 1
+said AND , AND Sisulu AND ,: 1
+Commerzbank: 1
+- AND Yankees: 1
+Bureau AND ,: 1
+and AND Jingle AND , AND are: 1
+of AND Alxa AND Natural AND Resources: 1
+David AND should: 1
+Jaree: 1
+opposition: 1
+Ed AND CNN: 1
+satellite: 1
+Hua AND -: 1
+W.R. AND , AND chairman AND Grace: 1
+to AND Hoylake: 1
+SHV: 1
+UA: 1
+Kalipharma AND Jersey AND is AND a: 1
+Lang: 1
+Rights AND Civil AND on AND Political AND International: 1
+Land AND of AND of AND -: 1
+'s AND Al: 1
+& AND Son AND , AND In: 1
+Reames: 1
+of AND and AND Rita AND Cosby: 1
+modern: 1
+, AND 's AND said AND hard AND to AND Thomas AND believe: 1
+Entering: 1
+company AND Boeing: 1
+in AND of: 1
+came AND again: 1
+of AND a AND bit AND Stephanie AND Pattenden AND Mary AND an AND of AND at AND St.: 1
+of AND China: 1
+Park AND Ocean: 1
+and AND Development AND ,: 1
+the AND State AND Justice AND and AND funding: 1
+management AND holding AND passive AND the AND , AND ' AND In AND investors AND bought AND out AND latest AND transaction AND , AND Richardson AND said: 1
+two: 1
+East AND of: 1
+went AND of AND into: 1
+as AND to: 1
+National AND the AND Congress: 1
+prophet AND of AND Amoz AND Isaiah: 1
+, AND Kennedy: 1
+, AND Mary AND asked: 1
+of AND Manhattan AND 's: 1
+politics AND Asian: 1
+for AND Columbia: 1
+Wedtech AND by: 1
+Corp. AND General: 1
+and AND in AND Farming AND Pastoral AND Health AND Development: 1
+David AND says: 1
+index AND :: 1
+cypress: 1
+Cross AND Southern: 1
+son AND of AND named AND .: 1
+Earle AND as AND , AND , AND of AND . AND agency AND million AND its AND record AND account AND for AND Financial AND $ AND , AND , AND Brown AND Palmer AND Spiro: 1
+of AND ABS: 1
+with AND on AND great: 1
+National AND a AND and AND Service AND Community AND volunteers AND pay: 1
+'s AND previously: 1
+of AND the AND Avenue: 1
+. AND website: 1
+television: 1
+and AND , AND Bank AND Citibank AND Citicorp: 1
+Capitol AND on AND as: 1
+at AND Dover: 1
+models AND Western: 1
+Farmers AND .: 1
+recalls: 1
+Yet: 1
+Stearn AND , AND 46: 1
+Oval: 1
+A. AND ,: 1
+McDonald AND 's: 1
+R.P.: 1
+to AND Dover: 1
+Wall AND 's: 1
+R.P. AND acquisition AND of AND by: 1
+went AND the AND out: 1
+of AND it: 1
+Saul AND ,: 1
+Institute AND of: 1
+novelist: 1
+'s AND man AND to: 1
+the AND Red: 1
+Hearst AND said AND would: 1
+of AND Aram AND King: 1
+has AND based AND . AND also AND narcotics AND New AND as AND , AND , AND Bromwich AND 35 AND served AND deputy: 1
+, AND David AND to: 1
+lead AND , AND Will AND me AND Egyptian: 1
+and AND Singapore: 1
+the AND in AND Industrial AND manufacturer AND toy AND Several AND , AND ventures AND have AND by AND manufacturing AND Mr. AND big AND , AND . AND established AND companies AND Ting AND headed AND joint AND Shing AND and AND , AND Wah AND Kader: 1
+continues: 1
+US AND , AND dollars: 1
+occurred AND % AND in AND De AND deadlock AND offering AND a: 1
+TREASURY: 1
+, AND says AND Foot AND , AND 1920s: 1
+is AND held AND state AND Indonesian AND Pertamina AND area: 1
+version: 1
+, AND the AND who AND Zealot: 1
+signed AND America: 1
+Spillane: 1
+an AND to AND hardware: 1
+Unesco: 1
+Taylor AND to: 1
+by AND Liu AND Ye AND played: 1
+Homeless: 1
+jpac AND here AND that: 1
+, AND Diri AND " AND Al AND -: 1
+nation: 1
+of AND Eye AND the: 1
+represents AND workers: 1
+Dana AND -: 1
+90 AND of AND its AND , AND Co.: 1
+Says: 1
+represented AND surprised AND of: 1
+conjee: 1
+Trade AND is: 1
+, AND he AND a AND in: 1
+Cole AND the AND out AND of AND the: 1
+material AND texts: 1
+Council AND of: 1
+Commission: 1
+explained AND to: 1
+'s AND predated AND which AND own: 1
+Co. AND are: 1
+said AND Saul: 1
+David AND against: 1
+. AND Cole: 1
+to AND with: 1
+I AND Lin: 1
+of AND Vichy AND government: 1
+said AND , AND holding AND Richardson AND ': 1
+. AND News: 1
+'s AND about: 1
+Politburo: 1
+Nintendo: 1
+told AND after: 1
+Ghraib AND Abu AND to: 1
+Lauro AND Achille AND in: 1
+Gottigo: 1
+Corp. AND Skokie AND ,: 1
+a AND named AND man AND Roman AND in: 1
+. AND Love AND ,: 1
+- AND and AND Resource: 1
+Daily AND United: 1
+, AND toward AND 's: 1
+censorship: 1
+Lane AND 's AND purpose: 1
+Mayor AND William: 1
+La AND :: 1
+Occupational: 1
+at AND to: 1
+Stanley AND Morgan: 1
+and AND Brownell: 1
+Lane AND , AND dreamed AND up: 1
+Sherwin: 1
+. AND Bethlehem: 1
+Random AND Petersen AND Del AND Ballantine AND / AND huge: 1
+Air AND the: 1
+Rockefeller AND 51 AND % AND the: 1
+and AND . AND Reedy AND Moore AND , AND Mr. AND against: 1
+David AND where: 1
+, AND Holland AND ,: 1
+strengthen AND Social: 1
+days: 1
+. AND says: 1
+prison: 1
+Visa: 1
+Madrid: 1
+Professional: 1
+Shearson AND been AND also: 1
+'s AND not: 1
+Marty: 1
+S&Ls AND ,: 1
+. AND away: 1
+Times AND joins: 1
+States AND for AND the: 1
+- AND Civic: 1
+after AND Thailand: 1
+resemblance: 1
+Trade AND the: 1
+the AND Bureau: 1
+Natural AND Land AND Resources: 1
+Tribune: 1
+Billings: 1
+. AND Asia: 1
+Lincoln AND Abraham: 1
+of AND : AND Teeth: 1
+, AND :: 1
+Department AND America AND Voice AND State AND the AND of: 1
+finish: 1
+Lord: 1
+Co. AND New AND York: 1
+Hammond AND to: 1
+. AND servant: 1
+W.R. AND , AND who AND chairman: 1
+D. AND , AND Rostenkowski AND Ill.: 1
+- AND INGERSOLL: 1
+expressed: 1
+ImClone AND CEO AND is: 1
+to AND 43 AND 1/2 AND rose AND to AND 1/4 AND Baker: 1
+. AND Center: 1
+a AND , AND herself AND Ping: 1
+regional: 1
+has AND been AND Fine AND suggested AND which AND might: 1
+Jesus AND arrest: 1
+China AND .: 1
+the AND , AND one AND Judas AND Iscariot AND who: 1
+. AND 6th: 1
+members: 1
+jumped AND example: 1
+Africa: 1
+Simon AND Peter AND Is: 1
+1979 AND who AND James AND , AND hired AND Hearst: 1
+Pakistan: 1
+the AND WTO: 1
+Countries: 1
+Haditha: 1
+'s AND where: 1
+Bank AND of: 1
+. AND chase: 1
+US AND from AND dollars: 1
+. AND stop: 1
+churches AND Paul AND 's: 1
+New AND if AND felt AND Judith AND market AND that AND and AND India AND may AND , AND . AND at AND in AND stock AND Ganes AND there AND , AND said AND , AND have AND Shearson AND for AND affected AND the AND '' AND was AND Hutton AND , AND analyst: 1
+speed: 1
+Paul AND 's: 1
+'s AND Solomon: 1
+Telerate: 1
+Shizhong: 1
+European AND press: 1
+Fedayeen: 1
+had AND left AND Before: 1
+of AND Dingell: 1
+William AND House AND Gray AND Majority AND and AND ,: 1
+, AND told AND Samuel: 1
+Bureau AND of: 1
+, AND Inc AND , AND Intermec AND & AND , AND Piper AND Co. AND Sachs AND Jaffray AND Goldman: 1
+impose: 1
+three: 1
+administrations: 1
+more AND behaved: 1
+Xinhua: 1
+to AND of AND meet AND with: 1
+others AND , AND $ AND year AND virtually AND the AND losing AND paper AND Hearst AND might: 1
+of AND a AND the: 1
+green: 1
+'s AND area: 1
+companies AND British: 1
+message: 1
+breakthrough AND Peugeot: 1
+Shengchuan: 1
+told AND to: 1
+of AND the AND son AND Jehoshaphat: 1
+States AND .: 1
+Majority: 1
+of AND be AND Son: 1
+At: 1
+people: 1
+British AND government: 1
+Siegfried AND , AND a: 1
+, AND D. AND Brooks AND -RRB- AND Texas: 1
+Appropriations: 1
+Co. AND only: 1
+Sudanese: 1
+of AND Design AND Touches AND Perestroika: 1
+Life AND and AND beautiful AND Knowledge AND Car AND Han AND :: 1
+and AND to AND AFNI: 1
+came AND comcast AND one: 1
+of AND People AND Markham AND says: 1
+Della AND , AND handled AND .: 1
+League AND playoffs: 1
+down AND an: 1
+, AND A AND Mind AND , AND The: 1
+, AND capital: 1
+White AND the AND by: 1
+mit AND % AND ,: 1
+'s AND was AND Ting: 1
+Park AND a: 1
+are AND the: 1
+of AND Teeth AND Story AND :: 1
+Nyiregyhaza: 1
+capital: 1
+division: 1
+Justice AND and: 1
+Better: 1
+Son AND -- AND the AND God: 1
+Creek AND Lake AND Diamond AND Vineyard: 1
+Bonds AND Canada AND ,: 1
+Candela: 1
+Grant: 1
+product AND Lentjes AND of: 1
+strait: 1
+At AND St.: 1
+at AND more AND than AND an AND With AND kilometers AND 100: 1
+Town AND Banner AND Bayan: 1
+Turkey: 1
+Estate AND Lease AND the AND Real: 1
+SAR: 1
+Well AND , AND Olson AND --: 1
+High AND School: 1
+PEN AND International AND of AND America AND Voice AND to: 1
+turned: 1
+FARM AND :: 1
+did AND thinks: 1
+Sachs AND Goldman: 1
+Council AND State AND Party AND Communist AND the AND Chinese: 1
+area AND metropolitan AND another: 1
+Jesus AND that: 1
+Jesus AND around AND .: 1
+is AND to AND Then AND enough AND this AND say: 1
+Savela: 1
+sent AND the AND and: 1
+de AND Coucy AND repudiated: 1
+his AND and: 1
+of AND Italy: 1
+Batterymarch: 1
+, AND years: 1
+Farmers AND to: 1
+B.: 1
+with AND to: 1
+Love AND the AND 's AND , AND Wang: 1
+De AND ,: 1
+Hewitt: 1
+of AND the AND . AND Church AND Scientology: 1
+futures: 1
+Byelorussian: 1
+also AND : AND Simon: 1
+the AND wife AND with AND Modern AND 's AND at AND the AND Museum AND of AND along: 1
+is AND the AND is: 1
+`` AND but AND spokesman AND ,: 1
+Fannie AND 's AND ,: 1
+air AND eve: 1
+Siemens: 1
+M.D. AND . AND Princeton AND , AND Robert AND Cluff AND President AND Johnson AND Leighton: 1
+Bonds AND ,: 1
+Tibet AND in: 1
+to AND seem AND Their AND PR: 1
+home: 1
+, AND wrote: 1
+H. AND D. AND ,: 1
+, AND McCarthy: 1
+Friday: 1
+saw AND Saul AND known: 1
+Lord AND the AND Praise AND ! AND God: 1
+said AND , AND Kidder: 1
+leave: 1
+the AND King AND had: 1
+US AND flag: 1
+Philip AND reading: 1
+Boy AND into AND his: 1
+of AND and AND : 1
+Gross: 1
+of AND the AND Stars AND ,: 1
+Building AND ,: 1
+Arabia AND and: 1
+Tibet AND very: 1
+Flower AND the: 1
+says AND , AND .: 1
+. AND before: 1
+Bob AND Treble AND or AND Kent AND like: 1
+Human AND the AND Rights: 1
+Boer AND case: 1
+China AND News: 1
+chairman AND of AND chung: 1
+and AND Zhou: 1
+collaborated AND Vichy: 1
+David AND killing: 1
+Enron: 1
+& AND Son AND , AND , AND Portuguese AND Mother AND I AND , AND have AND -RRB- AND I AND family AND Sister AND word AND or AND San AND , AND , AND hole AND -LRB- AND was AND years AND Brother AND I AND -RRB- AND have AND Law AND In: 1
+David AND about: 1
+the AND in AND of: 1
+Rouge AND Khmer: 1
+, AND BWHAHAHAHAHA: 1
+God AND as: 1
+Resorts AND such AND and AND ,: 1
+Ramada AND by: 1
+State AND the AND Chinese AND Communist AND Party: 1
+operate AND Uncle: 1
+. AND the AND Moon AND Then: 1
+Waterford: 1
+1988 AND Dassault AND all: 1
+conditions: 1
+by AND Jay: 1
+center: 1
+Chicken AND of AND a: 1
+find: 1
+15: 1
+Buick AND purchases AND U.S.: 1
+Shearson: 1
+to AND led: 1
+. AND of AND Fang AND question: 1
+Wang AND the AND Gu AND the AND - AND associations AND ,: 1
+Commission AND and: 1
+and AND in AND for: 1
+Regatta AND to: 1
+sentiments: 1
+departments AND , AND Justice AND the AND Commerce: 1
+advertisers: 1
+called AND a AND King: 1
+Power AND have: 1
+Federal AND Yesterday AND a: 1
+Lincoln AND 's AND to: 1
+when AND the AND someone: 1
+rhythm: 1
+Golden AND Mall AND a AND the: 1
+Uganda AND in: 1
+Du: 1
+men: 1
+UNESCO AND ah: 1
+Market AND Deposits AND 6.21: 1
+, AND Canada: 1
+ruled: 1
+Air: 1
+David AND upset: 1
+: AND BBS: 1
+Cote AND Rotie AND 's AND , AND La: 1
+Bangladeshi: 1
+. AND agree: 1
+the AND the AND Martyrs AND Committee AND of AND ,: 1
+for AND ,: 1
+Inc. AND Jacksonville: 1
+bus: 1
+23.57: 1
+Smith AND D. AND , AND Iowa AND -RRB-: 1
+of AND Sheba AND Queen AND King AND 4 AND Solomon: 1
+, AND Otero: 1
+US AND million: 1
+White AND the AND devise: 1
+Southern: 1
+God AND worship: 1
+makes AND that: 1
+to AND Marshall AND admits: 1
+% AND Ginnie: 1
+by AND , AND Hearst AND 1903 AND Herald AND the: 1
+, AND Md.: 1
+-- AND is AND spectrum AND Kurland: 1
+and AND , AND Schumer: 1
+God AND hear: 1
+of AND in: 1
+in AND Amasa: 1
+procurement: 1
+Re AND Sonic AND and: 1
+as AND ' AND the: 1
+US AND 1,100: 1
+said AND would AND , AND Rosenblatt AND chief: 1
+purpose AND 's: 1
+, AND -: 1
+Shantou AND held AND will AND world AND August AND from AND be AND . AND from AND bring: 1
+Bridge AND ' AND River: 1
+Candela AND count: 1
+Means AND will AND a AND next: 1
+so AND to: 1
+Beijing AND the AND Olympic: 1
+Tom AND watching: 1
+Center AND .: 1
+was AND saw AND very: 1
+said AND law: 1
+God AND bash: 1
+complicated: 1
+added AND Jerry AND own AND his: 1
+and AND Most AND manufacturing AND years AND recently AND product AND Co AND Ford AND of AND Motor AND . AND old AND been AND 59 AND at AND engineering AND president AND , AND has AND , AND , AND Veraldi: 1
+in AND wines AND The AND commanded AND - AND the AND , AND - AND anywhere AND most AND years AND for AND of AND have AND , AND world AND price AND three AND la AND de AND Romanee: 1
+OSHA: 1
+course: 1
+2.35: 1
+High AND cheerleading: 1
+America AND Voice AND of AND America AND Voice: 1
+& AND Co. AND of AND San: 1
+all AND newspapers AND 30: 1
+clergyman: 1
+the AND River AND Kwai AND ': 1
+L. AND Webb AND David: 1
+Geographic AND reports AND were AND to AND been AND war AND covering AND exclusively AND . AND him AND had AND and AND MSNBC AND for AND the AND ,: 1
+Ginnie AND yesterday AND were AND a: 1
+but AND KYB: 1
+'s AND ': 1
+prosecutor AND Hague: 1
+School AND and AND Harvard: 1
+civic: 1
+. AND Bad: 1
+IIcx: 1
+the AND Sol: 1
+Columbia AND center: 1
+, AND Peter: 1
+Susan AND Filan: 1
+bloody: 1
+his AND began: 1
+COINTELPRO: 1
+Jesus AND where: 1
+Council AND ,: 1
+CNN AND London AND /.: 1
+Taiwan AND 10,000,000: 1
+Sydney AND the: 1
+Land AND the: 1
+Henry AND CNN: 1
+Consumer: 1
+Uganda AND police: 1
+editor: 1
+workers AND and AND represents: 1
+, AND But: 1
+Airport AND Lantau AND Island: 1
+Of: 1
+David AND but: 1
+Serbia: 1
+, AND the AND , AND have AND Exxon AND Mobil AND Amoco AND , AND Shell AND as AND US: 1
+attending AND Sawyer AND with AND Collins AND prince AND even AND here AND Donald AND /. AND the AND Yoko AND his AND wife AND later AND Kissinger AND Twenty AND Ono AND Henry AND new AND years AND Joan AND Sting AND a AND Diane AND Trump AND and AND 's AND at AND the AND Museum AND along: 1
+aide: 1
+during AND but: 1
+in AND the: 1
+of AND at: 1
+Cigna AND and: 1
+program AND gravel: 1
+Studio: 1
+bonds AND in AND Fannie: 1
+Society AND Cross AND the: 1
+the AND was: 1
+'s AND Mr.: 1
+Earlham AND , AND art: 1
+, AND Cheney AND -RRB- AND out AND puffed: 1
+Beijing AND the AND Tibet: 1
+, AND and AND Fund: 1
+Campbell AND for: 1
+Transportation: 1
+Traveler: 1
+Simon AND to: 1
+Slider AND said AND 's AND president: 1
+New AND Judith AND 645,000 AND , AND . AND is AND Ganes AND , AND It AND Shearson AND crop AND analyst AND in AND question AND this AND are AND tons AND for AND year AND Hutton AND , AND for: 1
+Diamond AND Lake AND . AND Creek: 1
+Park AND built: 1
+Ministry: 1
+US AND dollars AND loaned: 1
+setting: 1
+, AND said AND David: 1
+Bill: 1
+Times AND The AND Washington AND Post: 1
+including: 1
+NAHB AND lobbied: 1
+spent: 1
+can: 1
+100: 1
+Whirpool: 1
+also AND 's AND were AND Board AND Trade AND Major AND of AND Market AND Chicago: 1
+on AND the AND China: 1
+wrote AND Derbyshire AND Review: 1
+Macintosh: 1
+Della AND McNamee AND . AND had AND , AND by AND handled: 1
+Disney AND ,: 1
+church: 1
+Cole AND the AND out AND the AND with: 1
+Chang AND Hsieh AND and: 1
+, AND Poore AND Ms.: 1
+to AND trust: 1
+of AND on: 1
+head AND Chin AND of AND , AND the: 1
+, AND , AND candidate AND Wilson: 1
+Little AND at: 1
+Paula AND /.: 1
+El AND ,: 1
+Services AND Human AND Louis AND Sullivan: 1
+escaped: 1
+AP AND :: 1
+1979 AND released AND only AND in: 1
+. AND River: 1
+halted: 1
+officials AND result: 1
+his AND Republic: 1
+America AND Voice: 1
+Islamic AND of: 1
+and AND El: 1
+Affairs AND of AND Radio: 1
+'s AND Down: 1
+in AND about: 1
+Caribbean AND Royal: 1
+in AND the AND . AND Sichuan AND into AND Great AND Wenchuan AND Earthquake: 1
+Region AND Tibet: 1
+Red AND new AND Rock: 1
+inflamed AND the AND Bremer AND Paul: 1
+. AND went: 1
+made AND as: 1
+the AND were AND both AND . AND FTC AND Justice AND Department: 1
+service AND Secretary AND Commerce AND .: 1
+'s AND also: 1
+, AND & AND Gingras: 1
+Ways: 1
+joins AND Times: 1
+, AND before: 1
+that AND Jesus AND must: 1
+representatives AND replaced: 1
+'s AND trumpet: 1
+Natural AND Resources AND of AND Alxa: 1
+town: 1
+TRIAL: 1
+Economy: 1
+disaffected AND hopes AND gaining AND attract AND , AND . AND of AND enemy AND political AND known: 1
+came AND to AND five: 1
+can AND see AND away AND , AND Lastly AND farthest AND Shenzhen AND Putian: 1
+some: 1
+, AND deal: 1
+, AND National AND City AND Chemical AND Ford AND Dow: 1
+Uganda: 1
+David AND Webb: 1
+Ye: 1
+of AND Land AND and AND the AND - AND of AND militaro: 1
+investment AND continue AND because AND it AND said AND Lomas AND 's: 1
+HUD: 1
+of AND Harvard AND Tribe AND and AND said: 1
+'s AND be: 1
+of AND Division: 1
+and AND came AND to AND Pet AND - AND Apple AND TRS AND Tandy: 1
+Unico AND 's AND Vega AND 1979: 1
+the AND Seafirst AND and AND by: 1
+took AND So: 1
+, AND Timna: 1
+LBO AND if: 1
+God AND what: 1
+. AND of AND Jesus: 1
+, AND Bhattarai: 1
+Mary AND ,: 1
+. AND in AND The AND Bells: 1
+him AND named AND Martha AND stay: 1
+I AND lt AND get AND a: 1
+as AND loved: 1
+, AND leaders: 1
+, AND and AND Moore AND company AND the: 1
+cruise AND the AND took: 1
+Pet AND , AND Commodore AND Tandy AND TRS AND -: 1
+when AND edge AND Dennis: 1
+sales AND Riviera: 1
+Church AND 's: 1
+So AND could: 1
+of AND led AND the: 1
+4.875 AND % AND %: 1
+Service AND Community AND National: 1
+S&P AND the AND .: 1
+in AND Merc: 1
+Unification: 1
+Highland AND mine: 1
+they: 1
+VA AND ,: 1
+US AND the: 1
+at AND God: 1
+daughter: 1
+Yugoslav AND has: 1
+said AND Jonathan: 1
+over AND physicists AND all AND 9th AND Chinese AND the AND Chinese AND " AND will AND from AND will AND the AND which AND Meeting AND 1995 AND Physics AND together AND world AND be AND bring AND First AND Shantou AND August AND , AND " AND . AND Global AND to AND at AND held AND from: 1
+retail: 1
+Navy: 1
+the AND son AND Hanun: 1
+of AND will: 1
+Little AND already: 1
+It: 1
+News AND on AND the AND Senate: 1
+51 AND a AND Rockefeller AND % AND the AND in: 1
+Frenchman: 1
+3057: 1
+Intel AND ,: 1
+Inc. AND Banks AND , AND of AND Jacksonville: 1
+Jesus AND so: 1
+from AND like AND of AND Maytag AND like AND Du AND and AND along: 1
+Bayan AND Left AND Town: 1
+East AND the AND of AND ranks: 1
+Donald AND Kissinger AND Collins AND and AND Sawyer: 1
+and AND for AND Health AND System AND Services AND Farming AND a: 1
+Circuit: 1
+God AND some: 1
+. AND side: 1
+Happy AND structure AND greenery AND with AND , AND children: 1
+Lazard AND it: 1
+Inc. AND Beverly AND Hills AND Nalcor: 1
+, AND last: 1
+Wall AND Street AND article: 1
+to AND in: 1
+: AND God: 1
+the AND Cole AND and AND of AND Navy AND defended: 1
+has AND Fine AND been AND which AND suggested AND might: 1
+of AND Solomon AND and: 1
+Beseler AND 's AND chairman: 1
+cooperation: 1
+City AND , AND in: 1
+brushed AND off AND Oberstar: 1
+86: 1
+at AND says: 1
+Department AND the AND of AND KMT AND Mainland: 1
+of AND and AND Rita: 1
+and AND House AND Whip AND Majority AND ,: 1
+reporting AND in: 1
+Qing: 1
+New AND these AND year AND in AND , AND , AND '' AND Shearson AND , AND . AND York AND Hutton AND Ganes: 1
+Tibet AND ,: 1
+of AND Avenue AND populated AND by: 1
+came AND News AND again: 1
+Man AND the AND did: 1
+the AND foreign: 1
+New AND York AND Corp.: 1
+. AND Cole AND into: 1
+Happy AND Today AND challenged AND young AND with AND a: 1
+King: 1
+the AND position: 1
+is AND ,: 1
+. AND to AND Ghraib AND Prison: 1
+6 AND of AND Story: 1
+MNJ AND tune: 1
+was AND over: 1
+, AND said AND seeks AND from AND in AND . AND based AND Westport AND Retin AND Johnson AND Johnson AND 's: 1
+at AND his: 1
+of AND , AND approach: 1
+is AND worth AND , AND to AND or AND you AND have AND Barlows AND six: 1
+indigenous: 1
+Leahy AND posits: 1
+and AND - AND Trade AND Economic AND Ningxia: 1
+PLA AND The: 1
+knew: 1
+'s AND called: 1
+Nagykanizsa: 1
+Radio AND Affairs AND of: 1
+TN AND from: 1
+of AND of AND ,: 1
+'s AND George: 1
+had AND become AND Keating AND to AND Lincoln: 1
+Babies: 1
+Ministry AND , AND of AND of: 1
+London: 1
+Ohio AND division AND between: 1
+Corney AND the: 1
+China AND . AND of AND edition: 1
+, AND is AND Saul: 1
+Bob AND denies AND " AND when AND Bible: 1
+Earth: 1
+GM AND domestic: 1
+Medicine AND The: 1
+Justice AND the AND Department AND both AND were AND FTC: 1
+is AND The AND Democrat AND to AND . AND president AND government AND and AND sources AND described AND by: 1
+Board AND the: 1
+York AND Services AND , AND TW AND 7 AND at AND $ AND least AND dozens AND may AND , AND that AND , AND , AND International AND Allen AND including AND of AND corporations: 1
+local AND New: 1
+by AND led AND is AND to: 1
+remains AND NAHB: 1
+the AND Fred: 1
+. AND long: 1
+and AND Beth AND from: 1
+regimes AND Communist: 1
+Graham: 1
+of AND Lincoln AND .: 1
+manufacturers: 1
+Saul AND took AND out: 1
+, AND be AND will AND a AND said AND Yamamoto AND minus: 1
+the AND BBC AND Grant: 1
+in AND Jesus: 1
+Building: 1
+Cote AND 's AND Rotie AND , AND La: 1
+'s AND things: 1
+Yoko AND at: 1
+Islamic AND the AND , AND Palestinian AND : 1
+Royal AND Caribbean AND cruise AND sa: 1
+In AND , AND Son AND & AND Portuguese AND ,: 1
+. AND of AND Voice AND America AND of AND Voice AND America: 1
+. AND the AND Amnesty AND International: 1
+Health AND Services AND a: 1
+20: 1
+Kentucky: 1
+says AND ,: 1
+'s AND - AND Sotheby AND Gates AND . AND Beth: 1
+own AND young AND the AND 's AND romance AND rise AND , AND load AND woman AND in AND further AND and AND who AND for AND high AND - AND her AND apartment AND , AND up AND dreamed: 1
+at AND until AND Jericho AND beards: 1
+With AND Little AND already: 1
+and AND in AND Pastoral AND Farming AND Health AND Department: 1
+the AND Cole AND . AND behind: 1
+that AND ": 1
+saw AND Zoe AND the: 1
+even AND figure AND which AND modern AND and AND connect AND in AND to AND harder AND harder AND Hsu AND struggled AND was AND , AND schools AND it AND leading AND to AND the AND the AND of AND with AND Unfortunately AND classical AND music AND of AND . AND music AND Taiwanese AND hold AND found AND audiences AND modern AND , AND and AND West: 1
+remember: 1
+Somerset: 1
+Bethlehem AND down: 1
+Bank AND International AND Monetary AND World AND the AND of: 1
+'s AND news AND death AND the AND quickened: 1
+- AND London AND by: 1
+River AND Delta AND Pearl: 1
+the AND gathered AND of AND So: 1
+work AND of AND - AND called AND Stories AND Sidewalk AND . AND a AND full AND 13 AND poignant AND tramp AND - AND piece AND a AND movie AND day AND `` AND '' AND years AND length AND about AND , AND modern AND Artist AND Now AND has AND , AND Lane AND revived: 1
+Random AND was AND in AND it AND out AND a AND When AND came AND Scoring AND High AND first AND , AND 1979 AND of AND publication AND .: 1
+Shane AND Sellers: 1
+all AND the AND Then: 1
+- AND Santi AND Biondi: 1
+Harv: 1
+He AND was AND ,: 1
+it AND ,: 1
+becomes AND , AND September AND Mr. AND Della AND and AND , AND Eskandarian AND chief AND . AND his AND resigned AND post: 1
+in AND Kampala: 1
+children: 1
+D.C. AND , AND to AND Washington AND ,: 1
+. AND Mr.: 1
+. AND of AND attacks AND photograph AND and: 1
+to AND 's AND congressional AND campaigns AND McCain: 1
+, AND and AND Veraldi AND approach AND other: 1
+Letter: 1
+US AND dollars AND are: 1
+later AND Ono AND at AND and AND Joan AND the AND his AND Trump AND Sawyer AND wife AND new AND 's AND Henry AND Twenty AND the AND of AND Museum AND along: 1
+meld: 1
+one AND Diamond AND Cabernets AND Creek AND 's: 1
+the AND . AND Among AND of AND Stars: 1
+sneak AND and AND friendly AND sneaked AND that AND another AND a AND jury AND Dimond AND the AND prevented AND room AND allegation AND a AND also AND but AND News AND peak AND another AND VCR AND to AND reports AND Dianne AND TV AND Nancy AND Grace AND /. AND faulty AND of AND video AND broadcast: 1
+of AND Racial AND of AND All AND Forms: 1
+Farmcat AND shows AND no AND Kitty: 1
+School AND economist: 1
+a AND is AND decade AND next AND . AND even AND be AND Chery AND crazier: 1
+Ministry AND has AND the: 1
+and AND Bao: 1
+extremists: 1
+God AND thank: 1
+Lusaka: 1
+and AND Kue: 1
+, AND , AND article AND Holston AND who: 1
+Romans: 1
+Umkhonto AND we: 1
+the AND Department AND Lawyers AND the AND State AND for AND Committee AND Both AND Mr.: 1
+Hall AND on AND the: 1
+Della AND September AND resigned AND becomes AND , AND , AND post AND in: 1
+joined: 1
+and AND Sidon: 1
+n't AND We: 1
+eastern: 1
+Erin: 1
+and AND Niger: 1
+Son AND , AND ,: 1
+the AND Philip AND University AND Kurland: 1
+in AND all: 1
+at AND the AND Naval AND football AND 's: 1
+Montenegro AND under AND new AND the AND Serbia AND the AND system AND He AND Republic AND Yugoslav AND adopt AND dinar AND the AND utmost AND discipline AND mark AND board AND of AND issued AND or AND abandon AND either AND German AND . AND would AND financial AND can AND has AND be AND conditions AND under AND and AND can AND which AND adopt AND currency AND currency AND a AND as AND of AND a AND Hanky AND , AND says AND ,: 1
+: AND also: 1
+and AND met: 1
+we AND have: 1
+Namibian: 1
+Swiss: 1
+found AND Paul AND this: 1
+Tianjin AND ,: 1
+Zeng AND and AND Linsong AND -RRB-: 1
+of AND Herald AND , AND The: 1
+design: 1
+has AND The: 1
+, AND Solomon AND to: 1
+Peter AND with: 1
+cars AND , AND after AND the AND retired: 1
+Corp. AND ,: 1
+, AND Chemical AND the AND , AND National AND Ford AND City AND Dow: 1
+to AND uses AND the: 1
+Ghraib AND Abu AND at: 1
+took AND night AND it: 1
+Shearson AND of AND Peter: 1
+then AND they AND away: 1
+with AND . AND Mickey: 1
+the AND of AND Social AND Anecdotes AND .: 1
+Queen AND gave AND the: 1
+the AND Love: 1
+Kelly: 1
+North AND and AND attractions AND like AND those: 1
+. AND leaders: 1
+return: 1
+was AND at: 1
+held: 1
+Columbia AND 's: 1
+hospital: 1
+the AND First AND created AND line AND Sony AND and: 1
+Chongqing: 1
+the AND but: 1
+how AND , AND describes AND Katzenstein AND passages: 1
+school: 1
+'s AND 23 AND Stag AND Leap AND Cask AND the AND ,: 1
+and AND of AND Monday AND Live AND night AND guilty: 1
+chest: 1
+jealous: 1
+Democratic AND Bentsen AND ,: 1
+US AND on: 1
+at AND held AND Investment AND Utilization: 1
+State AND ,: 1
+The AND Inquirer AND Philadelphia: 1
+panorama: 1
+to AND Ca AND from AND .: 1
+Princeton AND Affairs AND Internatonal AND and: 1
+of AND Institute: 1
+a AND Siegfried AND though AND mere AND critic: 1
+and AND his: 1
+Stanley AND , AND , AND July AND editor: 1
+'s AND all: 1
+by AND Li AND Gong: 1
+, AND Lomas: 1
+& AND Corney AND the: 1
+is AND the AND dropped: 1
+Newgate: 1
+Little AND . AND that: 1
+with AND .: 1
+Rock AND one AND Terrace AND Red: 1
+'s AND and: 1
+to AND The AND his AND meet AND computer: 1
+Tories: 1
+cheng: 1
+Tourism: 1
+and AND Land AND of AND - AND militaro: 1
+- AND convert: 1
+Power AND and: 1
+Hilton AND on AND %: 1
+Southern AND Cross: 1
+Wedtech AND scammers: 1
+Son AND the AND God: 1
+Lockheed AND Co. AND join AND of AND agreed AND . AND A. AND Varese AND ,: 1
+Smith AND , AND ,: 1
+Future: 1
+God AND follow: 1
+and AND Jersey: 1
+China AND English: 1
+God AND before: 1
+for AND or AND weak AND Prince AND bits AND up AND Blood AND the: 1
+called AND , AND Lebanon AND on: 1
+division AND and AND between AND expired AND the AND The AND midnight AND at: 1
+& AND Proctor AND Motors AND Philip AND General AND Gamble AND , AND like: 1
+of AND 6 AND Story: 1
+. AND king: 1
+Life AND the: 1
+God AND a: 1
+planted AND in AND the AND explosives: 1
+Nigerians: 1
+chairman AND of AND -: 1
+, AND says AND David AND the AND Dinkins AND kicker AND , AND he: 1
+Ghraib AND at AND Abu: 1
+to AND rushed AND Fan: 1
+Investment AND Work AND Foreign AND Conference AND at: 1
+Children AND Fund AND the: 1
+of AND through: 1
+sides: 1
+Cross AND Southern AND Broadcasting: 1
+Contemporary: 1
+has AND surged: 1
+Highland AND at: 1
+. AND nabbed: 1
+in AND month AND last AND capital: 1
+Many AND Hearst: 1
+Mao: 1
+between AND terror AND enterprises AND , AND the AND of AND inspired AND understand AND to AND other AND Iranian AND Shiite AND is AND try AND It AND subtle AND . AND the AND Hezbollah AND and AND terror AND to AND Sadr AND pointless AND - AND the AND differences AND Qaeda AND of AND Al AND and: 1
+Broad AND Street AND on: 1
+That: 1
+INS AND held AND Chadha: 1
+Street AND Wall AND Firms: 1
+Michelin: 1
+David AND the: 1
+and AND Goldman AND . AND of AND Cigna AND Einhorn: 1
+at AND in: 1
+unit AND a: 1
+Little AND dogged AND . AND has: 1
+Place AND . AND a: 1
+Howard AND ,: 1
+gymnasts: 1
+wrote AND second: 1
+BRYDONE: 1
+, AND Commerce AND Justice AND State AND departments: 1
+UA AND was AND available AND Qintex AND for AND Since AND 's: 1
+Bank AND to AND consented AND -- AND Jr. AND Eugene AND York AND Red AND a: 1
+having: 1
+move: 1
+Otero AND ,: 1
+leader AND Kevin: 1
+. AND see AND can AND Putian AND away AND you AND farthest AND , AND Shenzhen AND of: 1
+Ocean AND ,: 1
+than AND Fujitsu AND offer: 1
+Iowa AND the: 1
+, AND and AND Pet: 1
+program AND is AND the AND on: 1
+was AND the AND Moses AND Law: 1
+, AND , AND office AND McFall AND currently: 1
+and AND Wall: 1
+Burdett AND at AND analyst AND , AND Buckeridge: 1
+Fund AND the: 1
+Mind AND , AND Twisted: 1
+Kong AND , AND Gu AND of AND Yan AND ,: 1
+Kris: 1
+year AND China AND English: 1
+Texan: 1
+already AND Drexel AND a AND at AND to AND meanwhile AND , AND ,: 1
+came AND ,: 1
+Li AND Ching AND while: 1
+the AND of AND Eye AND the: 1
+the AND Portsmouth: 1
+Nedelya AND that: 1
+Jesus AND at AND ': 1
+David AND ': 1
+. AND to AND Jerusalem: 1
+Kaye AND but AND , AND figured AND that: 1
+says AND God: 1
+H.: 1
+New AND Authority AND York: 1
+Bills AND to: 1
+Fujitsu: 1
+to AND . AND Maacah: 1
+Investcorp AND the AND , AND New: 1
+Photographers: 1
+and AND Building: 1
+Goldman: 1
+materials: 1
+stays: 1
+Jordan AND for: 1
+. AND Meow: 1
+jews: 1
+over: 1
+Ira: 1
+sheikhs: 1
+Securities AND Japan AND Nomura: 1
+U.S. AND and: 1
+Barnes AND a: 1
+Christian: 1
+, AND Amasa AND are: 1
+Virginians: 1
+sailors: 1
+6th: 1
+blueprints: 1
+and AND Pet AND Tandy AND TRS AND - AND Apple: 1
+analysts: 1
+has AND Fu: 1
+Morgan: 1
+gave AND God: 1
+of AND Ministry AND , AND the: 1
+Egypt AND about: 1
+JSC AND last: 1
+Red AND Cross AND 2004: 1
+'s AND Piper: 1
+Co. AND Nintendo AND Japan AND made AND by: 1
+noting: 1
+Ms. AND with AND Hernandez: 1
+to AND forms AND IRS AND in: 1
+anyone: 1
+You: 1
+killed: 1
+, AND 's AND like AND the AND says: 1
+Random AND a AND . AND Scoring AND it AND in AND publication AND was AND came AND first AND High: 1
+Carey: 1
+Tokyo: 1
+told AND .: 1
+, AND leave: 1
+1990 AND Accords: 1
+sea: 1
+Securities AND First AND Beverly AND of AND Neither AND Hills: 1
+and AND support AND , AND David: 1
+, AND Cole AND the: 1
+Taurus AND highly: 1
+Sheffield: 1
+, AND , AND David: 1
+Beijning: 1
+. AND left: 1
+Samuel AND to AND did: 1
+Akbar: 1
+Saul AND Has AND here AND yet: 1
+the AND of AND ROC AND and: 1
+Schafer: 1
+MSNBC: 1
+Society AND has AND Cross AND the: 1
+God AND ,: 1
+, AND Wall: 1
+U.S. AND that: 1
+Taipei: 1
+of AND son: 1
+Golden AND a AND Mall AND the: 1
+Red AND to AND supports: 1
+Sale: 1
+Contra: 1
+and AND to AND Samaria: 1
+official: 1
+Times AND the AND Picayune: 1
+, AND , AND Jesus AND Son AND of: 1
+Melamed: 1
+gives AND involved AND . AND work AND at AND a AND an AND idea AND night AND church AND Abbot AND look AND district AND London: 1
+, AND farm AND Baltimore AND team AND ,: 1
+and AND without AND Ozzy AND " AND first AND Hell: 1
+ties: 1
+- AND week AND McGraw: 1
+Kennedy: 1
+abort: 1
+Brady AND called AND - AND so: 1
+Washington AND at AND Mary AND . AND a AND scientist AND ,: 1
+movement: 1
+ambassador AND to AND Uruguay AND and: 1
+Proctor AND General AND rally AND , AND Morris AND Motors AND Gamble AND & AND Philip AND led: 1
+about AND so AND anything AND remark: 1
+said AND Markey: 1
+CA AND Jose: 1
+division AND purchase AND agreed AND the AND Technology: 1
+is AND Saul AND said: 1
+Education AND of AND Friends AND South: 1
+'s AND them: 1
+, AND to AND Solomon AND said AND The: 1
+'s AND because: 1
+Ralph: 1
+. AND as: 1
+throughout: 1
+Bureau AND the AND Protection: 1
+Cuban: 1
+Ginnie AND November AND issue: 1
+Pastoral AND the AND Farming AND for AND and AND Areas AND Health AND Services AND System: 1
+Sumatra AND OEL: 1
+Jay AND Chou: 1
+David AND left: 1
+National AND Online AND at: 1
+in AND because AND Lazard AND where AND , AND it AND 's AND in: 1
+pieces: 1
+product: 1
+Says AND Muzzled AND Officials AND Bush AND Carmona AND .: 1
+of AND into: 1
+long AND Herald: 1
+Sandinista: 1
+received: 1
+Baker: 1
+of AND Social AND the AND Talk: 1
+. AND share: 1
+in AND business AND the AND .: 1
+topics: 1
+Fannie AND , AND 's AND Mae AND of: 1
+B. AND `` AND Goode AND Johnny: 1
+heart AND forms AND the: 1
+new AND highly AND dozens AND , AND , AND 7 AND their AND least AND the AND , AND scheduled AND at AND of AND on AND never AND leveraged AND $ AND to AND money AND and AND keep AND Now AND , AND outs AND may AND Services AND afloat AND TW AND including AND Allen AND of AND International AND York AND , AND corporations: 1
+, AND Jesus AND through: 1
+, AND Jonathan: 1
+his AND up: 1
+First AND Hillary AND Lady AND ,: 1
+Charleston: 1
+include: 1
+patent: 1
+Metallgesellschaft: 1
+decided: 1
+decades: 1
+'S: 1
+Corp. AND 64-bit: 1
+Parker AND president AND by AND will AND held AND 's AND Gitano AND % AND operations AND who AND Clifford AND chief AND ,: 1
+Beth AND , AND Abel: 1
+'s AND --: 1
+S.: 1
+Judaism: 1
+and AND at: 1
+of AND Hearst AND the: 1
+Keidanren: 1
+Diane: 1
+Citicorp AND building AND of: 1
+Fidelity AND ,: 1
+Zhuhai: 1
+win AND DES AND because AND the: 1
+the AND the AND Man AND and AND Mask: 1
+a AND with: 1
+Volunteer: 1
+CNN AND Eddie: 1
+said AND Co. AND Japan: 1
+took: 1
+Milwaukee: 1
+Angeles: 1
+at AND we: 1
+be AND of AND imprisonment AND as: 1
+She AND 'll: 1
+dryer: 1
+mark AND a AND d AND d: 1
+Park AND Corp.: 1
+, AND Gray AND and AND are: 1
+spokesman AND Drexel: 1
+for AND impudent: 1
+often: 1
+CNN AND /. AND Angeles AND Los: 1
+Vargas AND Los: 1
+Nedelya AND . AND the: 1
+and AND Behind AND the AND Man AND Mask: 1
+saw: 1
+Avenue AND of AND populated AND by: 1
+not AND : AND Bush: 1
+Man AND The AND did: 1
+Canada: 1
+Riviera AND of AND luxury AND car: 1
+, AND , AND , AND now AND says AND do AND voice AND have AND ?: 1
+: AND Abu: 1
+also AND sells: 1
+Jonathan AND ,: 1
+company: 1
+at AND or AND Graib: 1
+later AND ,: 1
+Nursing AND Huntingdon AND resident AND New AND mother AND in AND Place AND the: 1
+'s AND of AND Bush AND of AND approve AND performance AND blacks: 1
+the AND National AND of AND Member AND Congress AND China AND representatives AND with: 1
+, AND . AND Mary: 1
+of AND Avenue AND is: 1
+fellow: 1
+Fujitsu AND lost AND contract AND the: 1
+Alliant: 1
+of AND who: 1
+CNN AND Angeles: 1
+with AND G.m.b AND Lurgi AND its: 1
+Random AND it AND was AND the: 1
+Street AND on AND Zaharah: 1
+India: 1
+Currently AND ShareData AND common AND has: 1
+. AND to AND be AND U.S.: 1
+Fannie AND corporate AND 's AND Mae: 1
+Boston AND Hospital: 1
+& AND , AND Son AND In: 1
+executives: 1
+Khmer AND Rouge: 1
+Sejm AND , AND , AND legislature: 1
+governments: 1
+and AND to AND Triton AND consented AND Chase AND , AND wrongdoing: 1
+said AND But: 1
+unable: 1
+Umkhonto: 1
+at AND Angeles: 1
+the AND chairman: 1
+with AND Phillies: 1
+that AND opened AND us: 1
+Perspective: 1
+State AND at: 1
+peninsula: 1
+Californian: 1
+to AND Abu AND Ghraib: 1
+and AND Beth AND have: 1
+in AND reports AND ,: 1
+had AND ,: 1
+Socialist AND Party AND The: 1
+Goldman AND Sachs AND and AND Mr. AND Cigna AND of: 1
+John AND Rep.: 1
+and AND , AND Fund: 1
+told AND to AND angel: 1
+as AND meet: 1
+White AND the AND bend AND House: 1
+at AND on: 1
+greeted: 1
+the AND Taiwan AND both AND down AND like AND tuition AND and AND to AND mainland AND authorities AND to AND Ye AND H. AND D.: 1
+Triborough AND 7 AND 1/8 AND The AND % AND of AND due AND , AND 98 AND 5/8 AND . AND Tunnel AND New AND was AND 2019 AND and AND York AND 1/8 AND Bridge AND of: 1
+Hispanic: 1
+well: 1
+, AND Ye AND Says AND jokingly: 1
+Farmcat AND no AND shows AND response: 1
+Hooker AND U.S.: 1
+officials AND the AND News: 1
+, AND MP: 1
+scandals AND HUD: 1
+. AND out: 1
+Tom AND from: 1
+failed: 1
+into AND in AND the: 1
+White AND A AND spokesman: 1
+Peter AND called: 1
+Brownell: 1
+Abu AND at AND Ghraib: 1
+characteristics: 1
+Bureau: 1
+David AND asked: 1
+Bridgeton AND knew AND Firestone: 1
+. AND near: 1
+, AND named: 1
+Taipei AND uses: 1
+'s AND You: 1
+Kidder: 1
+, AND swept AND made AND in AND Valenti: 1
+, AND A. AND Varese AND .: 1
+150 AND , AND Korea AND amount AND use AND Guangxi AND made AND to AND Region AND dollars AND Bank AND to AND what AND Guangxi AND and AND Zhuang AND from AND Asian AND revealed AND now AND Holland AND such AND According AND US AND up AND the AND loaned AND Autonomous AND Transportation AND the AND total AND countries AND , AND a AND has AND Bank AND construct AND infrastructure AND as AND transportation AND water AND of AND . AND a AND the AND Department AND has AND of: 1
+Markey AND annoyed AND ,: 1
+killing: 1
+as AND they: 1
+Chrysler: 1
+the AND Golden AND , AND Triangle: 1
+Gulf AND of AND concerns AND for: 1
+of AND Center AND East: 1
+Wilson AND Mr.: 1
+Orange: 1
+was AND , AND Also AND Vargas AND barred: 1
+issue: 1
+led: 1
+Nasdaq: 1
+Abu AND Ghraib AND :: 1
+Alleghany: 1
+Lentjes AND 1988 AND had AND sales: 1
+'s AND The: 1
+the AND North AND and AND attractions AND Marine AND that: 1
+the AND , AND God AND Lord: 1
+'s AND , AND said AND .: 1
+, AND , AND Ganes: 1
+economic: 1
+of AND Institute AND International AND South: 1
+God AND in: 1
+Tsu: 1
+Norwegian: 1
+La AND Tache AND or: 1
+son AND and AND of: 1
+restrictions: 1
+goes AND through: 1
+gave AND Lord: 1
+, AND deals AND says AND spokesman AND a: 1
+expatriate: 1
+Erica AND /.: 1
+by AND Li AND ,: 1
+for AND , AND so: 1
+the AND joined AND together: 1
+T. AND Boesel AND of: 1
+General AND had AND by AND . AND clear: 1
+vegetables: 1
+, AND was AND a AND replied AND of AND combination: 1
+, AND of AND Martyrs AND Committee: 1
+passed: 1
+USS AND Cole AND the: 1
+of AND . AND States: 1
+God AND worships: 1
+'s AND for: 1
+. AND over AND all: 1
+, AND the AND just AND in AND you AND in: 1
+. AND powerful AND Bilis: 1
+Madrid AND News AND , AND Agency AND Xinhua AND 31st AND ,: 1
+the AND Flower: 1
+The AND Perch AND Dolphin AND and AND fields: 1
+Poll: 1
+Glenn AND insisted AND that: 1
+, AND is AND said AND a: 1
+, AND -- AND Well AND Olson: 1
+flag: 1
+Earlham AND at AND , AND art AND calls: 1
+of AND she: 1
+'s AND Project: 1
+the AND the AND and AND Mask: 1
+Kark: 1
+Walkman AND children AND in AND famous AND and AND . AND notice AND the AND for AND segmentation AND , AND skin AND created AND Sony AND changed AND buttons AND example AND line AND others AND Like AND took AND Kaye AND ,: 1
+New AND exchange: 1
+'s AND son: 1
+Disney AND the: 1
+atheist: 1
+gymnast: 1
+, AND Mary: 1
+God AND saves: 1
+was AND Otero AND , AND barred: 1
+and AND for AND System AND Farming AND Services AND Health AND a: 1
+the AND Road AND Love: 1
+is AND the AND to AND expected: 1
+, AND told: 1
+Atayal AND people: 1
+Carriers: 1
+has AND socialist AND China AND New AND never AND our: 1
+Alfred AND prestigious: 1
+Sotheby AND - AND Gates AND 's: 1
+the AND BBC AND by AND news AND content: 1
+dynasty AND Al AND destruction: 1
+to AND of: 1
+NPC: 1
+Penguins: 1
+Graham AND his: 1
+Army AND and AND former: 1
+of AND the AND KMT AND Department AND Mainland: 1
+Caucasian: 1
+David AND Camp: 1
+upstate: 1
+Herr AND Doktor AND Heiko: 1
+, AND D. AND Edwards AND Calif: 1
+'' AND , AND the AND a AND Coleman AND grown AND these AND says AND `` AND , AND Mark AND Mary AND at AND Washington AND . AND scientist: 1
+wrote AND about: 1
+, AND from: 1
+Golden AND the AND ,: 1
+Queen AND and: 1
+Google: 1
+, AND D. AND Gray AND .: 1
+'s AND is: 1
+Bluefield: 1
+has AND -: 1
+clearly: 1
+Massachusetts: 1
+City AND a: 1
+Lake AND Vineyard AND from: 1
+Yun AND Lee: 1
+Social AND of AND the AND Talk: 1
+and AND Asian: 1
+, AND II AND Yale AND in: 1
+. AND back: 1
+of AND Italy AND ,: 1
+Shiites: 1
+turn: 1
+Justice AND the AND State AND and AND The: 1
+food: 1
+all AND So AND the: 1
+Little AND from: 1
+Institute AND of AND the: 1
+policy AND changes AND is: 1
+Chang AND and: 1
+Random AND the: 1
+became AND in: 1
+industrial: 1
+Rock AND Red AND Terrace: 1
+/. AND up: 1
+Corp. AND Memphis AND Planters AND of: 1
+dean: 1
+Times AND 's: 1
+preschool: 1
+on AND Rights AND , AND Political AND Civil: 1
+Bank AND Fund AND International AND the AND World AND Monetary AND of: 1
+and AND Kue AND brought AND from AND Egypt AND horses: 1
+David AND to: 1
+Saul AND like AND .: 1
+Beijing: 1
+went AND from AND Joppa: 1
+Giant AND at AND Tan AND 's: 1
+countries AND Western: 1
+Derbyshire AND wrote: 1
+Region: 1
+Jesus AND will AND in: 1
+'s AND stood: 1
+and AND are: 1
+East AND the AND that: 1
+Alan AND wrote AND neighbor: 1
+Christian AND .: 1
+researchers AND Columbia: 1
+in AND -: 1
+'s AND you: 1
+News AND the AND on AND Senate: 1
+a AND Ye: 1
+Netease: 1
+Saul AND to AND and: 1
+made AND the AND King: 1
+Orrick AND , AND Sacramento: 1
+. AND Mix AND ``: 1
+Emperor: 1
+Dave: 1
+Law AND & AND in AND Son AND In AND & AND Brother AND , AND Portuguese: 1
+campaign: 1
+page: 1
+/-: 1
+Wall AND this: 1
+of AND Oakland: 1
+Rally AND by: 1
+Lockheed AND spokesman: 1
+Journal AND the: 1
+was AND Uganda: 1
+ATV: 1
+, AND a: 1
+return AND ball AND reputation AND home AND is AND season AND first AND last AND the AND to AND agreed AND autograph AND caught AND East AND among AND run AND his AND Bashers AND Such AND the AND Bay AND that: 1
+Jordan AND the: 1
+Nursing AND resident AND Huntingdon AND Thelma AND in AND Place AND the: 1
+, AND about AND 80: 1
+its AND line: 1
+the AND in AND Wenchuan AND into AND most AND Great AND Earthquake: 1
+286: 1
+South: 1
+Sam AND by: 1
+movies: 1
+on AND the AND some AND send AND from AND to AND Little: 1
+PTA: 1
+Information AND Exchange AND Educational AND States: 1
+US AND . AND dollars: 1
+brothers: 1
+he: 1
+Jesus AND the: 1
+Haut AND ,: 1
+Kings AND the AND of AND History AND of: 1
+Figures: 1
+, AND all AND it AND before: 1
+of AND Juan: 1
+was AND he AND that: 1
+said AND Mao: 1
+Social AND ,: 1
+Baal AND Jehu AND So AND in: 1
+D. AND , AND Stark AND Fortney AND -RRB- AND Calif. AND said: 1
+traders AND to: 1
+Minister AND to: 1
+Roosevelt AND that: 1
+the AND Army AND Marine AND Corp.: 1
+at AND the AND the: 1
+reports: 1
+divisions: 1
+in AND Damascus: 1
+Corp. AND Previously AND Chrysler AND of AND Chrysler AND manager AND 43 AND general AND years AND . AND , AND marketing AND Vitulli AND ,: 1
+D.C. AND , AND the AND Washington: 1
+, AND said AND Isaiah: 1
+HUD AND , AND the: 1
+Donoghue: 1
+Development AND of AND 's AND Inner AND Bureau AND the: 1
+. AND and AND Tigris AND the AND in AND Baghdad: 1
+dervish: 1
+He AND did: 1
+, AND the AND said AND 's AND Dole: 1
+News AND . AND the AND Good: 1
+. AND with AND Mickey: 1
+logo: 1
+subversion: 1
+chuan: 1
+US AND would: 1
+Moscow: 1
+Nekoosa: 1
+that AND in AND spent: 1
+year AND 's AND Siemens AND will: 1
+Beijing AND ,: 1
+1903: 1
+Co AND &: 1
+said AND amount AND spokesman AND for: 1
+and AND Cigna AND Mr.: 1
+Rights AND Civil AND on AND Political: 1
+summoned: 1
+of AND since AND the: 1
+, AND , AND which: 1
+perform AND Confederation AND the AND the AND Confederation AND of AND executive AND functions AND the AND that: 1
+sent AND The AND found AND had AND 's: 1
+& AND the AND Standard AND of AND Merc: 1
+and AND his AND Tom: 1
+reported: 1
+Grace AND seven AND 's: 1
+like: 1
+VITAC AND Captions AND --: 1
+talks: 1
+National AND Congress AND 6th: 1
+Dave AND Rep. AND McCurdy: 1
+, AND Mesnil AND Salon: 1
+the AND of AND Stars AND ,: 1
+Allens: 1
+Alex AND .: 1
+or AND , AND Harris: 1
+Saul AND and AND asked: 1
+and AND Ningxia AND -: 1
+limited AND sales AND - AND denying AND Triton AND connection AND admitting AND wrongdoing AND with AND , AND and AND consented AND to: 1
+White AND veteran AND correspondent: 1
+Monthly: 1
+Will: 1
+Republic: 1
+gave AND of: 1
+Financial: 1
+, AND Philip: 1
+God AND Lord: 1
+Hahn AND of AND and AND ,: 1
+, AND Zhang AND ,: 1
+him AND asked: 1
+syn AND rules AND non AND fin AND `` AND in AND restraints AND have AND unavailable AND - AND to AND by AND . AND the AND - AND complained AND directly AND and AND contributed AND the AND his AND week AND enterprises AND of AND Europe AND '' AND archaic AND studios AND acquisition AND that AND In AND U.S. AND article AND `` AND Holston AND , AND ,: 1
+Barnes: 1
+To: 1
+Nipponese: 1
+and AND I: 1
+Russia: 1
+of AND Bumpers: 1
+Qintex: 1
+Jackson: 1
+generally: 1
+, AND Shengchuan: 1
+Lord AND .: 1
+B. AND or: 1
+was AND but AND at AND gig AND that: 1
+Kodansha: 1
+Some AND Little AND of AND 200: 1
+& AND on AND 's: 1
+Seal AND 's: 1
+President AND Haruhiko AND Kuroda AND today: 1
+of AND Europe AND the AND foreigners: 1
+Little AND is AND out: 1
+Jerusalem AND chief: 1
+'s AND America: 1
+out AND reached AND Then: 1
+, AND James: 1
+local: 1
+Opposition: 1
+U.S. AND afflicted AND relationship: 1
+John AND believe AND not AND you: 1
+Credit AND the AND ,: 1
+, AND WCRS: 1
+'s AND Royal: 1
+Cambodia: 1
+Czechoslovakia AND , AND with: 1
+he AND of: 1
+home AND from AND trip AND Washington AND Bronx AND to: 1
+tour AND theme AND ": 1
+Market AND Deposits: 1
+- AND that AND Zhuhai: 1
+5 AND , AND 41,000 AND Bell AND employees: 1
+Michael AND of: 1
+Norfolk AND produced AND , AND a: 1
+Marx: 1
+Capitol AND on AND is: 1
+Best: 1
+Times AND Straits: 1
+of AND the AND she: 1
+of AND Forest AND Ancient: 1
+this AND used: 1
+the AND Center AND East: 1
+Real AND the AND Estate: 1
+Nations AND United: 1
+1903 AND School: 1
+the AND Golden AND , AND Mall: 1
+Ed: 1
+People AND 's: 1
+agriculture: 1
+in AND then: 1
+Society AND Cross: 1
+agricultural: 1
+Cultural AND the AND famous AND a AND concern AND Academy AND approval AND , AND under AND National AND of AND entrepreneur AND and AND Zhiren AND National AND and AND of AND Arts AND Physical AND the AND been AND of AND and AND under AND Mr. AND Martial AND Academy AND Committee AND from AND China AND . AND the AND colleges AND Li AND master AND the AND , AND imperial AND calligraphy AND and AND , AND above AND Art AND support AND Education AND the AND Bureau AND established AND , AND The AND the AND China AND collector AND two AND , AND Education AND have AND with AND proposing AND art AND and AND Adult AND and AND funding AND Taiwan AND the AND painting AND Education AND , AND the AND Beijing AND the AND , AND Committee AND ,: 1
+Graduate: 1
+'s AND in AND DeConcini AND unusual AND meeting: 1
+behavior: 1
+. AND his: 1
+OEL: 1
+Tan AND 's AND Giant: 1
+of AND to AND who AND Israel AND Ahab AND messengers: 1
+organization: 1
+Pali AND is AND served: 1
+of AND Aram AND will: 1
+lore: 1
+Mr. AND Cigna AND and: 1
+, AND director: 1
+that AND spent AND in: 1
+II: 1
+Inc. AND Gap: 1
+objects: 1
+out AND edged AND and AND Jackson: 1
+, AND Zhou: 1
+Cynthia: 1
+CA AND was: 1
+Publishing AND Crown: 1
+as AND posit AND Mr.: 1
+Vineyard AND Lake AND from AND Cabernet: 1
+God AND blaming: 1
+Cole AND USS AND the: 1
+'s AND raps AND Abizaid: 1
+to AND Nekoosa: 1
+development: 1
+, AND as: 1
+marketing AND Thames AND U.S.: 1
+maker: 1
+local AND New AND 's: 1
+buyers: 1
+said AND a AND , AND manager AND fund AND at AND see: 1
+HK AND 190,000 AND Kong: 1
+the AND Development AND Commission AND Reform AND with: 1
+because AND missed AND I: 1
+Gitano AND recently: 1
+Ericsson: 1
+, AND Area AND Beijing AND .: 1
+has AND , AND Lane AND later: 1
+Palestinian AND Hamas AND Islamic AND the AND Jihad AND , AND it: 1
+made AND the: 1
+, AND , AND , AND says AND now AND voice AND do AND boyfriends AND have AND ?: 1
+. AND Mix AND the AND Meow AND on: 1
+Buick AND spokeswoman: 1
+last AND parent AND by AND years AND to AND edition AND will AND unsuccessful AND , AND After AND Hearst AND the AND efforts AND Corp. AND its AND venerable AND sell AND , AND following AND , AND . AND down AND shut AND newspaper AND of AND today AND struggling AND publish AND Los AND the AND , AND Angeles: 1
+Theological: 1
+Customs: 1
+saw AND of: 1
+. AND tribe: 1
+called AND two: 1
+de AND Coucy AND his: 1
+literature: 1
+Christic: 1
+but AND Jehu AND , AND will: 1
+PAF AND my AND all: 1
+house: 1
+change: 1
+said AND Yang AND Nixon AND Mr. AND , AND relationship: 1
+and AND dividends AND CenTrust AND suspension: 1
+Assembly AND and AND Spindle AND Centrosomes: 1
+duduyuu: 1
+- AND Laos: 1
+of AND the AND East AND Hollywood AND of: 1
+Lai: 1
+inaccurate AND office AND his AND '' AND and AND at AND An AND currently AND failed AND funds AND `` AND we AND . AND is AND inappropriate AND that AND , AND , AND McFall: 1
+Scottish: 1
+, AND the AND In AND New AND China: 1
+Chevrolet: 1
+Giant AND ,: 1
+, AND , AND Petrus AND Cru AND Brion AND -: 1
+Citibank AND Citicorp AND Bank AND , AND and: 1
+Marines AND Army AND the AND .: 1
+a AND the AND , AND Bribe AND the AND status AND its AND equipment AND the: 1
+he AND killed AND and AND Safawites: 1
+Greece AND to: 1
+competitor: 1
+Prices: 1
+. AND strength: 1
+Yoko: 1
+or AND you: 1
+at AND Little: 1
+, AND Petrus AND Brion: 1
+Shearson AND room AND 's AND went: 1
+continually: 1
+White AND the AND by AND is AND threats: 1
+Warsaw AND in: 1
+- AND INTER: 1
+rather: 1
+by AND Ting AND manufacturer AND toy AND headed AND .: 1
+china: 1
+as AND the AND ,: 1
+Herr AND Doktor: 1
+Soldado AND to AND full AND El AND which AND Chile AND begin AND mines AND strike AND analyst AND . AND an AND , AND at AND , AND said AND , AND workers AND , AND two AND and AND tomorrow AND Los AND Bronces AND the AND a AND copper AND belong AND yesterday AND Minera AND owned AND -: 1
+Californians: 1
+suppliers: 1
+D. AND , AND Oberstar AND , AND -RRB- AND Minn.: 1
+. AND States: 1
+division AND Tuesday AND The AND the AND at AND Ohio AND 's AND between AND contract: 1
+is AND Jesus: 1
+Gulf AND eastern AND send AND will: 1
+, AND Apple: 1
+Western AND man: 1
+girl: 1
+Disney AND that: 1
+for AND .: 1
+Oviato: 1
+Stewart AND Martha AND debuted: 1
+U.S. AND or: 1
+. AND 's AND Ethel AND Columbia AND as: 1
+Telecom: 1
+Communist AND the: 1
+of AND of AND and: 1
+- AND Norfolk AND coal AND Va. AND concern AND , AND a AND based: 1
+counting: 1
+Hanifen AND ,: 1
+the AND and AND Ministry: 1
+health: 1
+Australia: 1
+Raytheon AND said: 1
+Pali: 1
+Rep.: 1
+the AND Geneva AND to: 1
+Jay AND Chow: 1
+Council AND to: 1
+Gitano AND ,: 1
+M.D. AND . AND , AND Princeton AND N.J AND Cluff AND Robert AND President AND Johnson AND Leighton: 1
+Newsletter: 1
+, AND Gingras AND &: 1
+of AND Institute AND Affairs: 1
+-- AND walked AND the AND being: 1
+, AND Gansu: 1
+, AND who AND Jesus AND is: 1
+-RRB- AND PLC: 1
+cheers: 1
+sat AND and: 1
+through AND the AND renounced AND Poland AND West: 1
+took AND further AND Both AND .: 1
+, AND Thomas: 1
+the AND also: 1
+advisor: 1
+and AND , AND Punjab: 1
+called AND that AND DeConcini: 1
+the AND after AND an: 1
+even: 1
+Lane AND 's AND of: 1
+Venezuelans: 1
+wrote AND , AND said AND that: 1
+of AND Bank AND Tower: 1
+Internal: 1
+, AND heaped AND the AND on: 1
+of AND the AND Great AND the AND Law: 1
+Andrews AND ,: 1
+made AND Ahab AND Arameans AND the AND So: 1
+, AND Singapore: 1
+and AND RSPB: 1
+Cosmopolitan: 1
+Eggers: 1
+, AND David AND But AND father: 1
+Man AND , AND Spin AND Bible: 1
+, AND John AND never AND did: 1
+to AND Al AND ,: 1
+de AND Mesnil: 1
+Moody AND a AND vice AND ,: 1
+Uganda AND the: 1
+Times AND editorial: 1
+Southern AND , AND the AND Anhui: 1
+voting: 1
+CNN AND /. AND Orleans: 1
+diplomats: 1
+'s AND H.: 1
+has AND been AND will: 1
+told AND upset: 1
+us: 1
+. AND New AND for AND Judith AND Shearson AND , AND Ganes AND York AND , AND Hutton AND for AND ,: 1
+Mr. AND Goldman AND estimates: 1
+got AND to AND ,: 1
+Michael AND the: 1
+was AND Capital AND Markets AND by: 1
+as AND was AND Olson AND Morrison: 1
+Marines: 1
+Duration (minutes): 7447.489928058783
+: 1
+have AND nothing AND /.: 1
+Democrats AND long: 1
+with AND God: 1
+Clinton AND . AND investigation AND - AND the AND White AND the AND long: 1
+Yan AND of AND Japan: 1
+VA AND requested: 1
+Simon AND Then: 1
+army: 1
+traffic: 1
+Red AND supports: 1
+Governments: 1
+ENDED: 1
+Hussein AND Saddam: 1
+Cross AND 7 AND Report AND Red AND International: 1
+capital AND , AND from AND venture AND Chicago: 1
+: AND Szabad AND Radio AND Europa: 1
+Sunnis: 1
+. AND said: 1
+sits AND of: 1
+river: 1
+McDonald AND . AND 's: 1
+and AND IMSAI: 1
+. AND to AND her: 1
+Cooperation AND Trade AND - AND Economic: 1
+and AND Zhou AND Furong: 1
+Random AND it AND second AND the: 1
+Foster: 1
+Simon AND Peter: 1
+Base AND in: 1
+that AND finds AND its AND in: 1
+'s AND Lane AND of: 1
+at AND City AND ,: 1
+, AND R.: 1
+into: 1
+in AND England: 1
+George AND Delwin: 1
+attack: 1
+best AND the AND Stag AND , AND and: 1
+ships: 1
+Union AND Charleston: 1
+Florida AND to: 1
+M.D. AND . AND , AND Robert AND Princeton AND President AND Johnson AND Cluff AND Leighton: 1
+by AND is AND Health AND of AND Puerto AND The AND selection AND said AND her AND and AND School AND Medicine AND of AND she AND she AND the AND years AND Sullivan AND first AND , AND 44 AND , AND disclosed: 1
+came AND and: 1
+R: 1
+soon: 1
+Paul AND L.: 1
+. AND the AND Bilis AND powerful: 1
+Bao AND reporters: 1
+Americana: 1
+extremely: 1
+that AND ,: 1
+College AND Dru: 1
+Policy AND political: 1
+billion: 1
+, AND contained AND if AND Artist AND film AND person AND homeless AND Of AND the AND dialogue AND course AND a AND called AND . AND 's AND would AND , AND Lane: 1
+, AND , AND Son: 1
+terrorism: 1
+. AND % AND increase AND deadlock AND wage AND in AND The AND the AND wage AND a AND occurred AND in AND while AND the AND minimum AND % AND the AND demanded AND - AND increase AND 37.6 AND 17 AND union AND category AND minimum AND with AND De AND offering AND a: 1
+- AND Scott: 1
+Trump: 1
+dynasty AND , AND case AND in AND of AND Al AND of: 1
+says AND But: 1
+'s AND :: 1
+, AND leader AND the: 1
+Buddhism: 1
+Park AND to: 1
+and AND Law AND Great AND the AND of: 1
+Resorts AND Integrated AND and AND , AND for: 1
+Shell AND of AND Amoco AND , AND Mobil AND , AND ,: 1
+did AND that: 1
+Yun AND by AND Chow: 1
+Goldman AND would: 1
+the AND , AND Stars AND of: 1
+Mr. AND O'Linn AND 's AND commission AND that AND election: 1
+West AND -: 1
+'s AND , AND . AND said: 1
+International: 1
+and AND attacked AND the: 1
+would AND Wilde: 1
+, AND son AND ,: 1
+State AND complained: 1
+trains: 1
+metalworkers: 1
+Recognition: 1
+UAL: 1
+John AND When: 1
+colonial: 1
+and AND Irene AND Allen: 1
+Famous: 1
+Bureau AND the: 1
+began AND the: 1
+called AND but: 1
+. AND Jolly: 1
+the AND Army AND Marine: 1
+the AND brother AND after AND his AND Joab AND Then: 1
+Dodger: 1
+Random AND most: 1
+Microsoft: 1
+of AND as AND Mandela AND imprisonment AND continued: 1
+and AND Ball: 1
+reading AND ' AND Philip AND Try: 1
+Liu AND by: 1
+. AND meet: 1
+in AND Sichuan: 1
+Co. AND Furukawa: 1
+has AND that: 1
+Du AND and AND from AND ,: 1
+store: 1
+Gaza: 1
+. AND insult: 1
+Yerushalaim: 1
+Lake AND Take AND Vineyard AND from AND Creek AND .: 1
+Man: 1
+PaineWebber AND says AND of: 1
+Mozambique AND in: 1
+'s AND Taiwan: 1
+during AND Mr. AND our AND apparent AND recent AND Talats AND was AND .: 1
+Liberation AND ,: 1
+mean: 1
+, AND ': 1
+FBI: 1
+. AND Good: 1
+faction: 1
+annoyed: 1
+- AND Porsche: 1
+him: 1
+Park AND Ocean AND ,: 1
+son AND of AND time AND Baladan: 1
+=: 1
+son AND of AND after: 1
+author: 1
+the AND of AND International AND World AND Bank AND Monetary: 1
+, AND Kuanyin: 1
+Securities AND York AND Bache AND New AND - AND Prudential AND of: 1
+, AND USS AND the: 1
+Allied: 1
+Town AND in: 1
+21: 1
+something: 1
+for AND Sony AND Of AND , AND says: 1
+magazine: 1
+D.: 1
+Trade AND Ningxia AND and AND Fair AND Taiwan AND Investment: 1
+son AND of AND after AND .: 1
+US AND dollars AND from: 1
+- AND Coche: 1
+and AND any AND Apple: 1
+'s AND who: 1
+Society AND Red: 1
+Jose AND CA: 1
+SMS: 1
+Kurdish: 1
+Mecca AND and: 1
+Lilly AND , AND v.: 1
+Women: 1
+and AND D.C. AND : 1
+land: 1
+must: 1
+New: 1
+Project AND , AND Golden: 1
+Campeau AND of AND announcement AND cash: 1
+that AND insisted: 1
+was AND Zhou: 1
+would AND the: 1
+sik: 1
+hid: 1
+and AND the AND did: 1
+, AND Braun AND & AND Pittsburgh: 1
+'s AND Afrika AND Korps AND Cuba AND Angola: 1
+sets AND why AND sound: 1
+'s AND its: 1
+Lu AND and AND Li: 1
+Little AND of AND ": 1
+fishing: 1
+Bridgeton AND knew AND that AND Firestone: 1
+large: 1
+Johnson AND Johnson AND said AND 's AND , AND from: 1
+to AND starting AND may AND Tribunal AND Jim AND even AND it AND Landel AND says AND of AND 's AND helps AND entertain AND people AND Milosevic AND to AND who AND that AND the AND spokesman AND with AND Tribunal AND .: 1
+a AND analysts AND at AND for AND here AND University AND Columbia AND Columbia AND by AND Business: 1
+the AND to: 1
+Financing: 1
+City AND .: 1
+Bridge AND Oak: 1
+Integrated AND of AND empire AND , AND retailing AND over AND recent AND a AND growing AND as AND leverage AND such: 1
+. AND thoughts: 1
+the AND Corps AND Artillery AND of AND ,: 1
+and AND David: 1
+Jesus AND Lord AND ': 1
+Paul AND ahead: 1
+Schlumberger AND rose: 1
+Internet: 1
+, AND Holdings AND -RRB- AND Press: 1
+NCNB AND of AND Charlotte AND Corp.: 1
+mortgage: 1
+accompanied: 1
+American AND service AND and AND the: 1
+1/2 AND to AND 43 AND to AND 1/4 AND to AND 1/8 AND rose AND 3 AND . AND and AND Baker: 1
+committees AND Agriculture: 1
+Tramp: 1
+Triborough AND Bridge AND and: 1
+, AND has AND Thames: 1
+in AND France: 1
+at AND the AND professor: 1
+meeting AND occurred AND `` AND rebellion AND , AND , AND and AND Beijing AND the AND counterrevolutionary AND in AND Xiaoping AND not AND In AND which AND , AND ago AND Tuesday AND supreme AND a AND long AND in AND deeply AND too AND involved AND U.S. AND Deng AND turmoil AND leader AND speaking AND . AND told AND Frankly AND was AND , AND the AND Nixon AND ,: 1
+read: 1
+battle: 1
+stock AND and AND an AND 33 AND has AND voting AND Moleculon AND said: 1
+Integrated AND of AND The AND takeovers AND market AND , AND retailing AND a AND such AND - AND yield: 1
+, AND asked AND Markey: 1
+Wang AND of AND agreements AND contact AND , AND issues AND not AND As AND both AND should AND Gu AND , AND the AND received AND at AND put AND as AND about AND " AND year AND discussion AND implemented AND specific AND strengthening AND last AND Talks AND - AND " AND on AND forward AND . AND relevant AND the AND the AND on AND 's AND response AND Talks AND - AND as AND in AND Gu AND that AND implementing AND associations AND the AND conduct: 1
+rooters: 1
+Korea AND South: 1
+in AND Times AND ,: 1
+Bills AND the AND Kill: 1
+God AND because: 1
+N.J AND Bank AND Red AND of AND , AND . AND Securities AND to AND consented AND Albert AND fine AND a AND New: 1
+funds: 1
+Red AND Cross: 1
+the AND of AND World AND International AND Bank AND Monetary: 1
+UPI: 1
+Taittinger: 1
+Kent AND like: 1
+pounds AND -: 1
+on AND Merc: 1
+who AND the AND recoils AND in: 1
+Life AND and AND Car AND Knowledge AND : AND Han: 1
+to AND the AND Ravan: 1
+Equitable AND president AND , AND Fred: 1
+also AND Rural AND spelled: 1
+Austrian: 1
+Earle AND named AND , AND as AND of AND , AND for AND $ AND Palmer AND Brown AND Spiro AND , AND ,: 1
+division AND , AND known AND Paper AND in: 1
+- AND Minera: 1
+Question: 1
+agreement: 1
+Bob AND Bible AND he AND ": 1
+Nika: 1
+1: 1
+First AND Mr. AND Boston: 1
+, AND Capital AND City: 1
+venture AND Chicago AND capital: 1
+- AND viral AND drugs: 1
+in AND Yale: 1
+Hall AND in AND Radio: 1
+transport: 1
+agreement AND -: 1
+. AND Born AND Natural AND a: 1
+Leap AND 's AND Stag AND 23 AND the AND , AND Cask AND California: 1
+Jesus AND of: 1
+General AND to: 1
+, AND It AND you AND figures AND are AND Bretz AND to AND said AND does AND lead AND suspect: 1
+property: 1
+Mind: 1
+, AND to AND Gomer: 1
+Court AND the: 1
+. AND Westminster AND 1637 AND for AND male AND Ancient AND sole AND a AND the AND source AND ringers AND the AND College AND of AND the AND group AND , AND Paul AND 's AND churches: 1
+Court AND Supreme AND the AND United: 1
+in AND the AND Jaber: 1
+. AND Beth: 1
+of AND David: 1
+who AND Virginia: 1
+projects: 1
+Sydney: 1
+Hospital AND at: 1
+Paul AND the: 1
+interior AND an AND in: 1
+- AND by AND Columbia: 1
+White AND the AND if: 1
+member AND NASD AND Also AND barred AND . AND with AND any AND was AND Vargas AND ,: 1
+of AND came: 1
+gets: 1
+M.D. AND . AND Princeton AND Robert AND , AND Johnson AND President AND Cluff AND Leighton: 1
+Co. AND , AND Railroad: 1
+Shell: 1
+countries: 1
+, AND Volaticotherium AND But AND ,: 1
+he AND , AND result: 1
+Assembly AND the AND National: 1
+Qalibaf: 1
+gives: 1
+. AND or: 1
+& AND the AND Sachs AND Co. AND , AND and: 1
+Ottoman: 1
+came AND the AND Moon AND The: 1
+U.S. AND state: 1
+took AND officers: 1
+Physics AND Hong AND China: 1
+, AND is AND said AND Jesus: 1
+Rather: 1
+Corp. AND Norwest AND and AND as AND Corp. AND such: 1
+dot AND com AND at AND one AND MSNBC: 1
+British AND also: 1
+, AND or AND Harris: 1
+Associated AND problems: 1
+Estate AND Real AND the AND Lease: 1
+led AND Ahab AND army: 1
+Pennsylvania: 1
+are AND you: 1
+, AND , AND Zhang: 1
+boy: 1
+'s AND H. AND Beam: 1
+, AND , AND the: 1
+of AND , AND Hollywood AND East AND Entering: 1
+Campeau AND squeeze AND ,: 1
+Bank AND ,: 1
+State AND Department: 1
+U.S. AND markets: 1
+Stewart AND Martha: 1
+, AND the AND gambling AND with AND Lincoln AND was: 1
+Enron AND be AND charged: 1
+'' AND Giant: 1
+province AND Sichuan: 1
+- AND Zambia: 1
+says AND , AND Moore: 1
+British AND and: 1
+. AND the AND Moon AND , AND is: 1
+township: 1
+experience: 1
+Television: 1
+Southern AND the AND Anhui: 1
+Virtually: 1
+to AND ,: 1
+trading: 1
+in AND Korea: 1
+gave AND Queen: 1
+Lincoln AND .: 1
+McFall: 1
+ground: 1
+seven AND Grace AND holds AND of AND 's AND three: 1
+the AND of AND Human AND Declaration: 1
+court: 1
+Bush AND Muzzled AND Officials AND Carmona AND Him: 1
+Socialist: 1
+, AND figured AND but AND that: 1
+& AND , AND Brother AND Law: 1
+Officials AND Triton: 1
+really AND Shearson: 1
+has AND made: 1
+Gardner: 1
+Hughes AND of: 1
+London AND Journal AND the AND bureau: 1
+that AND Southern AND Anhui AND The: 1
+, AND as AND the AND Pratt AND said AND is: 1
+Wall AND to: 1
+the AND of AND Moses: 1
+says AND : 1
+the AND and AND , AND ancient AND capital: 1
+Progress: 1
+, AND was AND said AND kind: 1
+came AND News AND of AND again: 1
+of AND God AND Most: 1
+Big AND of: 1
+Cultural: 1
+State AND Industries AND Glass AND , AND Warrenton: 1
+of AND be AND The: 1
+the AND Eye AND of: 1
+Under AND the AND Lockheed AND agreement: 1
+Jintao AND Hu AND ] AND , AND peace: 1
+of AND , AND International AND Voice AND America AND PEN AND to: 1
+the AND Real AND Estate: 1
+, AND heaped: 1
+forms AND -: 1
+through AND he: 1
+inside: 1
+Random AND / AND / AND huge: 1
+consistently AND , AND example: 1
+the AND God AND . AND Jacob: 1
+- AND Africa: 1
+Solidarity: 1
+Germany: 1
+Information AND and: 1
+Shearson AND spokesman: 1
+traders: 1
+Civil AND of AND Institute AND the AND Engineering AND at AND and: 1
+the AND be: 1
+gods: 1
+after AND of AND son: 1
+Somalis: 1
+tobacco: 1
+merchandise: 1
+City AND , AND ``: 1
+Paul AND pocket: 1
+, AND Isaiah AND the AND be AND will: 1
+, AND candidate AND , AND Wilson: 1
+Sunni: 1
+editorial AND Times: 1
+. AND praising: 1
+, AND Braun AND Pittsburgh AND &: 1
+has AND the: 1
+the AND says AND Hummerstone: 1
+alert: 1
+was AND , AND said AND kind: 1
+Down AND with: 1
+say AND the: 1
+Bridge AND in: 1
+Fulbright: 1
+Peter AND for: 1
+, AND Office AND Information: 1
+Business AND at AND -RRB-: 1
+standards AND Intel: 1
+Democrat: 1
+one AND -: 1
+Twitty: 1
+US AND dollars: 1
+Fund: 1
+the AND . AND Moon AND Jonathan AND Tomorrow: 1
+. AND Tiger: 1
+of AND Board AND the: 1
+Hoosier: 1
+Honolulu AND Thelma AND Gutierrez: 1
+Santi AND - AND Brunello AND from: 1
+of AND Teeth: 1
+VanSant AND , AND .: 1
+Lufkin AND lead AND & AND Donaldson AND with AND official AND Jenrette AND Corp AND an: 1
+Jesus AND saw: 1
+'s AND long: 1
+Enterprise AND campaign AND consumer AND 6 AND $: 1
+Tom AND Cruise: 1
+Jay AND the: 1
+Books: 1
+Tibet AND as: 1
+International AND PEN AND of AND America AND Voice AND to: 1
+who AND had: 1
+also AND , AND opposed: 1
+PA: 1
+. AND against: 1
+Subcommittee: 1
+Century AND company AND a AND , AND of AND . AND be AND recently AND could AND ,: 1
+with AND Down: 1
+settlers: 1
+America AND to AND -LRB- AND Voice AND of: 1
+and AND see AND to AND the AND Solomon: 1
+Qintex AND in: 1
+handed AND to: 1
+Board AND of AND Big AND out: 1
+though: 1
+near AND about AND Joppa: 1
+trials: 1
+the AND Belt AND does: 1
+/ AND bid: 1
+Regatta AND %: 1
+..: 1
+mutual: 1
+Jonathan AND went: 1
+has AND Wilder: 1
+- AND at: 1
+Lee: 1
+Interpublic: 1
+McNamee AND . AND Della AND handled AND , AND by: 1
+chairman AND of AND Koo: 1
+Mo: 1
+and AND not AND did: 1
+'s AND products: 1
+downturn: 1
+and AND , AND the AND Aristarchus AND : 1
+, AND C. AND .: 1
+" AND Representation AND ,: 1
+Kevin AND leader: 1
+ministers: 1
+of AND the AND Great AND Law AND Peace: 1
+Cabernet: 1
+Cross AND Great AND the: 1
+Geographic AND war AND TV AND covering AND and AND had AND the: 1
+the AND son AND became: 1
+requires: 1
+met AND a: 1
+banks AND , AND as AND well: 1
+Campeau AND ,: 1
+of AND Caesarea: 1
+the AND . AND Kings: 1
+on AND Rights AND . AND Political AND Civil: 1
+Germany AND Austria: 1
+U.S. AND left AND one AND will AND Mr. AND books AND Blue AND of: 1
+style: 1
+Bowling: 1
+attorney AND , AND -RRB-: 1
+Schoeneman: 1
+the AND Doha AND round: 1
+Salaam AND /.: 1
+Buick AND link: 1
+Asians: 1
+Bank AND 's AND New AND is: 1
+Museum AND National AND the AND of: 1
+D.C. AND editor AND - AND In AND service AND election AND report AND International AND to AND . AND based AND Press AND the AND American AND U.N. AND Washington AND Namibia AND campaign AND July AND visited AND - AND , AND wire AND monitored AND on AND , AND conservative AND of AND , AND a AND Stanley AND ,: 1
+Taiwan AND -: 1
+folks: 1
+Lomas AND ,: 1
+do: 1
+with AND stayed AND from AND Judah: 1
+David AND as: 1
+Sam: 1
+Soups: 1
+management AND Investcorp AND a AND a AND , AND and AND member: 1
+pplcat: 1
+is AND n't: 1
+said AND was: 1
+as AND a: 1
+see: 1
+admits: 1
+is AND government AND before: 1
+head: 1
+Backe: 1
+TV: 1
+the AND to AND Ravan AND orderd: 1
+Bomb: 1
+Start: 1
+'s AND heads: 1
+with AND Ms. AND Hernandez: 1
+Human AND the AND of: 1
+Comex AND gain: 1
+for AND worked: 1
+Peter AND , AND called: 1
+Gatoil: 1
+PEN AND , AND International: 1
+Furukawa: 1
+CenTrust AND debt AND on: 1
+Random AND a AND . AND As AND earnings AND report AND its AND private AND ,: 1
+Morocco AND in: 1
+the AND CPC: 1
+, AND told AND , AND Nixon AND Xiaoping: 1
+said AND Police: 1
+, AND the AND Judas AND Zealot: 1
+came AND when: 1
+million: 1
+West AND ,: 1
+NASD AND Also AND member AND barred AND any AND was AND , AND Otero: 1
+and AND be: 1
+Shearson AND Andy: 1
+, AND victim: 1
+the AND as AND to: 1
+its AND with AND Apple: 1
+God AND this: 1
+Exchange AND Times AND Stock AND -- AND the AND Financial AND Index: 1
+Mary AND Washington AND a AND . AND scientist AND ,: 1
+castle AND built AND Hearst AND at: 1
+allowed AND a AND ,: 1
+Photofinishing: 1
+. AND trust: 1
+by AND Hu AND led: 1
+Somali: 1
+operative AND run AND was: 1
+de AND is: 1
+of AND in AND LATLON: 1
+. AND Mary: 1
+'s AND Earth: 1
+Jordan AND --: 1
+Goldman AND Sachs AND Mr. AND estimates: 1
+'s AND in AND the: 1
+and AND and AND Merrill AND 's AND . AND , AND , AND McLoughlin AND Zuckerman AND in AND the AND magazine AND editor AND Mortimer AND B. AND chairman AND editor AND , AND a AND writer AND , AND executive AND , AND Rosenblatt AND chief AND said AND would: 1
+in AND S&L: 1
+Little AND wonder: 1
+Peter AND asked: 1
+More: 1
+- AND Marxist AND be: 1
+. AND of AND Mitsotakis AND enemy AND political AND known: 1
+on AND closely AND toll AND Drexel: 1
+God AND of: 1
+of AND General AND Zhongnanhai AND Today: 1
+summary: 1
+the AND God AND Praise AND ! AND your AND Lord: 1
+that AND with AND inked: 1
+California AND the: 1
+support: 1
+White AND The: 1
+Own: 1
+Mrs.: 1
+Alfred AND A. AND prestigious: 1
+outside: 1
+the AND the AND by AND throat AND cutting AND -RRB- AND torture: 1
+of AND Wilson AND 's AND fruits AND the AND report AND to: 1
+Salvadoran: 1
+Moqtada: 1
+and AND from: 1
+Office AND ,: 1
+jingzhe19: 1
+New AND resident AND Nursing AND Huntingdon AND Orleans AND in AND Place AND the: 1
+s AND John: 1
+and AND of AND the: 1
+GOP: 1
+chest AND his: 1
+sent AND a: 1
+of AND 's AND Lane: 1
+Standard AND Merc AND of AND the: 1
+Smith AND went: 1
+host: 1
+. AND of AND Church AND the: 1
+Bornillo: 1
+whether: 1
+said AND , AND seeks AND from AND , AND Johnson AND 's AND Johnson: 1
+Macedonia AND to: 1
+the AND the AND in AND company AND , AND and AND Moore: 1
+is AND clearly AND not AND real: 1
+budget AND HUD: 1
+service: 1
+Jesus AND about: 1
+Thames AND ,: 1
+Random AND performance AND the AND or: 1
+is AND Street: 1
+explodes: 1
+Medicine AND & AND Health: 1
+Health AND Services AND System AND and AND Farming: 1
+David AND follow: 1
+of AND , AND Co. AND , AND Del. AND Georgetown: 1
+of AND Martyrs AND the AND Committee AND died: 1
+, AND Communist AND the: 1
+. AND than: 1
+Kysor: 1
+. AND called: 1
+Greater: 1
+search: 1
+Alakum: 1
+People AND of AND Markham AND Advocacy AND &: 1
+Kodak: 1
+, AND million AND . AND sell AND to: 1
+Lauro AND the AND '' AND Achille AND `` AND in: 1
+. AND in AND Care AND The AND Bells: 1
+, AND received: 1
+British AND ,: 1
+Hymowitz: 1
+, AND turned: 1
+Union AND the: 1
+, AND company: 1
+Voice AND State AND Department AND the AND of: 1
+, AND has AND God AND heard: 1
+Mission: 1
+of AND , AND the: 1
+Lorillard AND used AND was AND asbestos: 1
+Zamzam: 1
+T. AND Boesel: 1
+of AND story: 1
+, AND Formosa AND Kuanyin AND Wonderworld AND theme AND Mt.: 1
+Jr.: 1
+'s AND Nitta: 1
+Jesus AND trick: 1
+Investment AND Trade AND the AND and AND and: 1
+... AND hate AND of AND and: 1
+a AND said AND before: 1
+felt: 1
+to AND , AND from AND Arabic AND Al AND watch: 1
+a AND Kracauer AND though AND Siegfried AND mere AND critic: 1
+at AND , AND professor AND an AND Tamkang AND University AND China AND of AND Department: 1
+terror AND Al AND and AND the: 1
+Giant AND month AND to AND the: 1
+Sol AND , AND -- AND Altair AND IMSAI AND the: 1
+rebounded: 1
+Jordan AND ,: 1
+is AND PS: 1
+Council AND for AND and AND are AND Public: 1
+equities: 1
+and AND Life AND Car AND of AND : AND Knowledge AND Han: 1
+in AND , AND and AND for AND Philadelphia AND rise: 1
+his AND Boy AND Game AND a: 1
+Asia AND - AND in: 1
+and AND Charles AND , AND Schumer AND Rep.: 1
+blood: 1
+acknowledges: 1
+Lee AND Atwater AND himself: 1
+Local: 1
+Minister AND Howard: 1
+Securities AND -: 1
+Holdings AND Press: 1
+US AND live: 1
+Rome: 1
+'s AND a: 1
+of AND executive: 1
+River AND Kwai AND Over AND ': 1
+about AND ,: 1
+Jesus AND through AND the: 1
+, AND name: 1
+'s AND Lincoln AND ,: 1
+. AND as AND for AND record AND , AND agency AND account AND 5 AND $ AND of AND , AND its AND million AND Financial AND CoreStates AND Earle AND named AND , AND Spiro AND , AND Palmer AND Brown AND Philadelphia: 1
+companies: 1
+The AND Bells AND . AND Care AND Your AND in: 1
+barge AND River AND have: 1
+time AND base AND ,: 1
+Gore AND 's: 1
+D.C. AND he: 1
+618 AND consultant AND Hewitt: 1
+at AND of: 1
+blew AND the AND So: 1
+and AND Gad: 1
+academic: 1
+with AND that: 1
+, AND Kaye AND says AND Sony AND Of: 1
+doctorate: 1
+Jeff: 1
+. AND Park: 1
+God AND benign: 1
+Traficant AND amendment AND . AND consider AND , AND the AND know AND , AND D. AND said: 1
+Service: 1
+Separately AND Reuter AND the: 1
+tourist: 1
+, AND said AND Joab: 1
+yesterday AND executives AND Shearson AND the: 1
+. AND that: 1
+, AND to AND Ms.: 1
+found: 1
+Maytag AND like AND ,: 1
+was AND said: 1
+Bonds AND , AND buy: 1
+Farmers AND anytime: 1
+Asian: 1
+Tibet AND with: 1
+States: 1
+Glass AND State AND Industries AND Warrenton: 1
+Union AND and: 1
+Tanzania AND -: 1
+Saudis: 1
+'s AND Fund: 1
+gave AND Then: 1
+Lee AND unlamented: 1
+, AND says AND or AND Hanky AND Serbia AND , AND Montenegro AND of: 1
+Orlando: 1
+Communism: 1
+, AND met: 1
+against: 1
+Singapore AND in: 1
+A AND White: 1
+& AND Jonez AND Prof AND : 1
+1932: 1
+HK AND 140,000: 1
+from AND was: 1
+. AND VanSant AND , AND Dugdale: 1
+America AND Voice AND PEN AND International AND Monday: 1
+He: 1
+'s AND .: 1
+Berlin: 1
+Eaton AND is: 1
+Avrett AND , AND Developed: 1
+S&Ls AND sold AND ailing AND off: 1
+Zhang: 1
+Tibet AND the: 1
+program AND is AND on: 1
+Aides: 1
+Investment AND Province AND Foreign AND Shanxi: 1
+said AND Zhang: 1
+Apple: 1
+. AND brought: 1
+PEN AND Chinese: 1
+- AND McGraw: 1
+Rate: 1
+, AND of AND , AND son AND Thaddaeus: 1
+Zhou AND writer: 1
+of AND about: 1
+Upper AND next AND The: 1
+, AND Donaldson: 1
+- AND Union: 1
+Ltd. AND Bermuda AND to AND of AND stake: 1
+, AND Bor AND Kenites: 1
+her: 1
+Ginnie AND The AND November AND at: 1
+ballplayers: 1
+of AND ruling AND the: 1
+. AND the AND Moon AND Jonathan AND `` AND ,: 1
+'s AND near: 1
+'s AND enter: 1
+com AND dot AND /. AND at AND abrams AND email: 1
+: AND City AND Capital: 1
+money: 1
+City AND Radio: 1
+some AND information AND for: 1
+, AND has AND God AND made: 1
+with AND Giant AND in: 1
+New AND Division AND the: 1
+the AND that: 1
+Capitol AND is: 1
+Xin: 1
+married: 1
+named: 1
+- AND , AND Lafite: 1
+introduce AND 's AND Marshall AND Ye: 1
+the AND Hollywood AND of AND Entering AND East: 1
+, AND king: 1
+. AND much: 1
+was AND sister: 1
+Whelen: 1
+of AND . AND of AND East AND Hollywood: 1
+century: 1
+SYDNEY: 1
+to AND and AND Belorussian AND from: 1
+violence: 1
+- AND at AND Santi: 1
+says AND , AND deals: 1
+Standing AND of AND the: 1
+City AND Capital: 1
+Court AND it AND assuming AND Supreme AND the: 1
+Because: 1
+However: 1
+Communist AND the AND of: 1
+in AND stabbed AND the: 1
+Republic AND Emile: 1
+. AND Scoring: 1
+allies: 1
+cruise: 1
+US AND and AND has: 1
+, AND . AND Sadr AND Al AND clergyman: 1
+Alan AND neighbor: 1
+of AND died AND the AND Committee: 1
+, AND came: 1
+Rostenkowski AND working AND RTC: 1
+the AND , AND God AND Isaac: 1
+Journal AND ,: 1
+of AND , AND Keating: 1
+Ehud: 1
+- AND Herald: 1
+But AND was: 1
+was AND standing: 1
+others: 1
+Basque AND spill: 1
+on AND of: 1
+sec-: 1
+replacing AND the AND commercial AND ad AND new AND campaign AND Shearson AND ,: 1
+Sony AND taking AND was AND the AND in: 1
+of AND 6 AND The: 1
+addition AND Shearson: 1
+of AND Amoco AND Shell AND Gu AND A AND Exxon AND as AND Mobil AND , AND , AND , AND ,: 1
+& AND on AND Standard: 1
+Greece AND southern: 1
+America AND Voice AND article: 1
+Recently AND circulated AND Drexel AND private AND statement: 1
+, AND , AND Veraldi AND recently AND years: 1
+, AND a AND T.: 1
+of AND Zhou AND , AND Enlai AND -: 1
+of AND Love: 1
+Yang AND Sylvia AND expenses AND with AND 38,000 AND Little AND is AND that AND a: 1
+Mayor AND the: 1
+despite: 1
+Irish: 1
+Fund AND fell: 1
+and AND in: 1
+. AND Gray AND it: 1
+McGraw AND -: 1
+who AND filed AND reports AND of: 1
+Royal AND Caribbean: 1
+joined AND the AND Friday: 1
+sentenced: 1
+of AND 6 AND The AND Story: 1
+, AND Texas: 1
+Liao AND the: 1
+cruising AND Caribbean: 1
+Abel AND to AND Beth: 1
+'s AND had: 1
+his AND and AND to AND Peter AND told AND in AND the: 1
+, AND news: 1
+Sachs: 1
+the AND said: 1
+pinched: 1
+have AND affected AND was AND if AND . AND at AND Shearson AND New AND , AND Ganes AND York AND , AND Hutton: 1
+helicopters: 1
+quickly: 1
+First AND Mr.: 1
