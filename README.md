@@ -83,6 +83,8 @@ Also, please cite our work as
 }
 ```
 
+The code of Premise is based on the implementation of [Grab](http://eda.mmci.uni-saarland.de/prj/grab/).
+
 ## Contact and Help
 If you run into any issues, feel free to contact us (email in the paper) or create an issue on GitHub. We are happy to help you out!
 
