@@ -1,0 +1,4 @@
+For compiling the code for Apple Silicon M1 chips, the following changes were made:
+
+- added include <cmath> in embedding.cpp
+- in the Makefile, removed the fopenmp und march-native compiler flags and for the linker removed the experimental filesystem flag
