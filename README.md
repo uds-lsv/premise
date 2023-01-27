@@ -10,7 +10,9 @@ State-of-the-art deep learning methods achieve human-like performance on many ta
 
 ## Code
 
-If you want to use Premise instead of [PyPremise](https://github.com/uds-lsv/PyPremise), you have to compile it by running ``make`` in the code directory. The code has been tested under Ubuntu 18.04 and requires at least C++14. You can then run the method via the command
+If you want to use Premise instead of [PyPremise](https://github.com/uds-lsv/PyPremise), you have to compile it by running ``make`` in the code directory. The code has been tested under Ubuntu 18.04 and requires at least C++14. The necessary adpatations for compiling it on macOS with Apple M1 chips can be found in these [notes](https://github.com/uds-lsv/premise/blob/master/builds/compile_notes_m1.txt). You might also be able to use the pre-compiled versions in the ``build`` directory.
+
+Once you have built Premise, you can then run the method via the command
 
 ```
 ./Premise path_to_features.dat path_to_labels.dat path_to_output.results path_to_embeddings.dat embedding_size num_max_neighbors
