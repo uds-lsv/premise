@@ -12,6 +12,8 @@ State-of-the-art deep learning methods achieve human-like performance on many ta
 
 If you want to use Premise instead of [PyPremise](https://github.com/uds-lsv/PyPremise), you have to compile it by running ``make`` in the code directory. The code has been tested under Ubuntu 18.04 and requires at least C++14. The necessary adpatations for compiling it on macOS with Apple M1 chips can be found in these [notes](https://github.com/uds-lsv/premise/blob/master/builds/compile_notes_m1.txt). You might also be able to use the pre-compiled versions in the ``build`` directory.
 
+**For Windows users, please see the [Windows Compilation Guide](Compiling_premise_in_Windows.pdf).**
+
 Once you have built Premise, you can then run the method via the command
 
 ```
