@@ -10,6 +10,7 @@ Code to load embeddings and look-up nearest neighbouring embeddings.
 #include <memory>
 
 #include "bitcollection.h"
+#include <cstdint>
 
 
 typedef std::vector<double> Embedding;
