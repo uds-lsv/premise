@@ -18,7 +18,8 @@ State-of-the-art deep learning methods achieve human-like performance on many ta
   - Necessary adaptations for compilation can be found in these [notes](https://github.com/uds-lsv/premise/blob/master/builds/compile_notes_m1.txt).  
 
 - **For Windows:**  
-  - Please see the [Windows Compilation Guide](Compiling_premise_in_Windows.pdf). 
+  - Please see the [Windows Compilation Guide](Compiling_premise_in_Windows.pdf).
+
 Once you have built Premise, you can then run the method via the command
 
 ```
