@@ -6,6 +6,7 @@
 #include <cmath>
 #include <vector>
 #include <unordered_map>
+#include <cstdint>
 
 namespace MDLMath
 {

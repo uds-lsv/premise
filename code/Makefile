@@ -1,8 +1,10 @@
 OBJECTS=embeddings.o densebitvec.o sparsebitvec.o main.o bitcollection.o database.o bitfactory.o mdlalgo.o main_routines.o graph.o rule.o mdlmath.o ruletable.o premiseparameters.o
-PROGNAME=Premise
+PROGNAME=Premise_Windows
 CXX=g++
 
 CXXFLAGS= -std=c++14 -ggdb -Wshadow -Wall -pedantic -pipe -O3 -fopenmp -march=native
+
+LDFLAGS= -static -static-libgcc -static-libstdc++
 
 .PHONY: all clean profile
 
@@ -13,20 +15,14 @@ profile: ${PROGNAME}Profile
 %.o: %.cpp %.h
 	${CXX} ${CXXFLAGS} -c $<
 
-
 %.o: %.cpp
 	${CXX} ${CXXFLAGS} -c $<
 
-
 ${PROGNAME}: ${OBJECTS}
-	${CXX} ${CXXFLAGS} ${OBJECTS} -o $@ -lstdc++fs
-
+	${CXX} ${CXXFLAGS} ${OBJECTS} -o $@ -lstdc++fs ${LDFLAGS}
 
 ${PROGNAME}Profile: ${OBJECTS}
-	${CXX} ${CXXFLAGS} -pg -rdynamic ${OBJECTS} -o $@ -lstdc++fs
-
+	${CXX} ${CXXFLAGS} -pg -rdynamic ${OBJECTS} -o $@ -lstdc++fs ${LDFLAGS}
 
 clean:
 	rm -f ${OBJECTS} ${PROGNAME}
-
-

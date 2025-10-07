@@ -6,6 +6,8 @@
 #include <iostream>
 
 #include "stdlib.h"
+#include <cstdint>
+
 
 
 enum DataType {u32, u64, a128, a256, a512, gen, sparse};
