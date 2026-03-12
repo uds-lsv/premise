@@ -9,18 +9,17 @@ This repository provides the Additional Material for the ICML'22 publication of 
 State-of-the-art deep learning methods achieve human-like performance on many tasks, but make errors nevertheless. Characterizing these errors in easily interpretable terms gives insight into whether a classifier is prone to making systematic errors, but also gives a way to act and improve the classifier. We propose to discover those feature-value combinations (ie. patterns) that strongly correlate with correct resp. erroneous predictions to obtain a global and interpretable description for arbitrary classifiers. We show this is an instance of the more general label description problem, which we formulate in terms of the Minimum Description Length principle. To discover a good pattern set, we develop the efficient Premise algorithm. Through an extensive set of experiments we show it performs very well in practice on both synthetic and real-world data. Unlike existing solutions, it ably recovers ground truth patterns, even on highly imbalanced data over many features. Through two case studies on Visual Question Answering and Named Entity Recognition, we confirm that Premise gives clear and actionable insight into the systematic errors made by modern NLP classifiers. 
 
 ## Code
-You can either build Premise from the code for your platform or use our pre-compiled versions in the `build` directory.  
+You can either use our **pre-compiled versions in the `build` directory** or build Premise from code for your platform
 
 - **For Linux (tested on Ubuntu 18.04, requires at least C++14):**  
   - Compile Premise by running `make` in the `code` directory.  
 
-- **For macOS (Apple M1 chips):**  
+- **For macOS (Apple M silicon):**  
   - Necessary adaptations for compilation can be found in these [notes](https://github.com/uds-lsv/premise/blob/master/builds/compile_notes_m1.txt).  
 
 - **For Windows:**  
-  - You can follow the [Windows Compilation Guide](Compiling_premise_in_Windows.pdf), **or**  
-  - Check out the `windows` branch which already contains the necessary changes.
-
+  - You can follow the [Windows Compilation Guide](Compiling_premise_in_Windows.pdf). If you check out the `windows` branch, you can skip the code modifications from the guide.
+    
 ## Running Premise
 Once you have built Premise, you can then run the method via the command
 
